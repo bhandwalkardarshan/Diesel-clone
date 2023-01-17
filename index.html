@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goodwill</title>
+</head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    list-style: none;
+}
+body{
+    position: relative;
+}
+#navtop{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0;
+    align-items: center;
+    background-color: rgb(180, 1, 64);
+    color: white;
+    padding-bottom: 0;
+}
+#navtop>div{
+    display: flex;
+    margin: 0 10px;
+}
+#navtop>div>div{
+    margin: auto 10px;
+    padding-bottom: 0;
+}
+#navtop>div:hover{
+    cursor: pointer;
+}
+#navtop>div>div:hover{
+    cursor: pointer;
+}
+#top{
+    position: relative;
+    width: 100%;
+    margin-top: 0;
+}
+.nav{
+    background-color: rgb(228, 48, 102);  
+}
+#logo{
+    width: 150px;
+    margin-top: 5px;
+}
+.nav ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 100px;
+}
+.nav ul li{
+    display: inline-block;
+    line-height: 60px;
+    margin: auto;
+}
+.nav ul li a{
+    color: white;
+    font-size: 15px;
+}
+.nav #nav-search{
+    font-size: 18px;
+    height: auto;
+    margin: auto;
+    border-radius: 7px;
+    padding-left: 10px;
+    border: 0px;
+    background-color: white;
+    color: rgb(155, 154, 154);
+    display: flex;
+    justify-content: space-between;  
+}
+.nav #nav-search2{
+    padding: 0 20px;
+    background-color: rgb(66, 65, 65);
+    color: white;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+.nav #nav-search2:hover{
+    background-color: gray;
+}
+.menus{
+    background-color: rgb(236,236,237);
+}
+.menus ul{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: auto;
+}
+.menus ul li{
+    line-height: 40px;
+    background-color: rgb(236,236,237);
+    font-weight: 500;
+}
+.menus ul li a{
+    color: black;
+}
+.arrow {
+    border: solid black;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-bottom: 3px;
+}
+.up {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+}
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.submenu{
+    display: none;
+}
+.menus ul li:hover .submenu{
+    display: inline-block;
+    position:absolute; 
+    margin-top: 35px;
+    margin-left: -15px; 
+}
+.menus ul li:hover .submenu ul{
+    display: block;
+    margin-left: -100px;
+}
+.menus ul li:hover .submenu ul li{
+    width: 185px;
+    text-align: left;
+}
+.menus ul li:hover .submenu ul li a{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.menus ul li:hover .submenu ul li:hover, .menus ul li:hover .submenu ul li a:hover{ 
+    background-color: white;
+    color: rgb(0,142,204);
+    font-size: 15px;
+}
+@media (max-width:968px){
+    #navtop{
+    display: block;
+    /* justify-content: space-between; */
+    margin-bottom: 0;
+    align-items: center;
+    background-color: rgb(180, 1, 64);
+    color: white;
+    padding-bottom: 0;
+    }
+    .nav ul{
+    display: block;
+    /* justify-content: space-around; */
+    padding: 0px 100px;
+    }
+    .nav #nav-search{
+        width: 100%;
+    }
+    .nav ul{
+    display: block;
+    padding: 0px 100px;
+    }
+    .menus ul{
+    display: block;
+    }
+}
+</style>
+<body>
+    <!-- Nav bar section -->
+    <nav>
+        <div id="navtop">
+            <div>
+                <p>Brand Waali Quality, Bazaar Waali Deal!</p>
+            </div>
+            <div>
+                <div><p>Impact@Goodwill</p></div>
+                <div><p> Gift Cards</p></div>
+                <div><p>Help Centre</p></div>
+                <div><p>Sell on Goodwill</p></div>
+                <div><p>Download App</p></div>
+            </div>
+        </div>
+        <div id="top">
+            <div class="nav">
+                <ul>
+                    <li><img src="images\logo.png" id="logo" alt=""></li>
+                    <li>
+                        <div type="text" id="nav-search" style="width: 120%">
+                            <h4>Search essentials, groceries and more...</h4>
+                            <div id="nav-search2">
+                                <h4><i class="fa fa-search" style="font-size:15px"></i>&nbsp Search</h4>
+                            </div>
+                        </div>
+                    </li>
+                    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+                    <li><a href="#"><i class="glyphicon glyphicon-user"></i>&nbsp Sign up/Sign in</a></li>
+                    <li><a href="#">&nbsp &nbsp <i class="fa fa-shopping-cart" style="font-size:24px;color:white"></i>&nbsp Cart</a></li>
+                </ul>
+            </div>
+            <div class="menus">
+                <ul>
+                    <li><a href="#">MEN'S FASHION &nbsp<i class="arrow down"></i></a>
+                        <div class="submenu">
+                            <ul>
+                                <li><a href="#">Footwear</a></li>
+                                <li><a href="#">Clothing</a></li>
+                                <li><a href="#">Winter wear</a></li>
+                                <li><a href="#">Sportswear</a></li>
+                                <li><a href="#">Grooming</a></li>
+                                <li><a href="#">Sunglasses</a></li>
+                                <li><a href="#">Hats & Caps</a></li>
+                                <li><a href="#">Wallets</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="#">WOMEN'S FASHION &nbsp<i class="arrow down"></i></a>
+                        <div class="submenu">
+                            <ul>
+                                <li><a href="#">Ethnic Wear</a></li>
+                                <li><a href="#">Footwear</a></li>
+                                <li><a href="#">Clothing</a></li>
+                                <li><a href="#">Winter wear</a></li>
+                                <li><a href="#">Sportswear</a></li>
+                                <li><a href="#">Grooming</a></li>
+                                <li><a href="#">Sunglasses</a></li>
+                                <li><a href="#">Wallets</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="#">FOOTWEAR &nbsp<i class="arrow down"></i></a>
+                        <div class="submenu">
+                            <ul>
+                                <li><a href="#">Sport Shoes</a></li>
+                                <li><a href="#">Casual Shoes</a></li>
+                                <li><a href="#">Sandals & Floaters</a></li>
+                                <li><a href="#">Formal Shoes</a></li>
+                                <li><a href="#">Loafers</a></li>
+                                <li><a href="#">Sneakers</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="#">CLOTHING &nbsp<i class="arrow down"></i></a>
+                        <div class="submenu">
+                            <ul>
+                                <li><a href="#">T-Shirts & Polos</a></li>
+                                <li><a href="#">Shirts</a></li>
+                                <li><a href="#">Jeans</a></li>
+                                <li><a href="#">Trousers & Chinos</a></li>
+                                <li><a href="#">Innerwear & Sleepwear</a></li>
+                                <li><a href="#">Sweaters</a></li>
+                                <li><a href="#">Thermals</a></li>
+                                <li><a href="#">Tracksuits</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="#">BEAUTY &nbsp<i class="arrow down"></i></a>
+                        <div class="submenu">
+                            <ul>
+                                <li><a href="#">Fragrances</a></li>
+                                <li><a href="#">Perfumes</a></li>
+                                <li><a href="#">Deodarants</a></li>
+                                <li><a href="#">Attar</a></li>
+                                <li><a href="#">Personal Care</a></li>
+                                <li><a href="#">Shaving Essentails</a></li>
+                                <li><a href="#">Skin Wellness</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="#">KID'S FASHION &nbsp<i class="arrow down"></i></a>
+                        <div class="submenu">
+                            <ul>
+                                <li><a href="#">Kid's Footwear</a></li>
+                                <li><a href="#">Girl's Clothing</a></li>
+                                <li><a href="#">Boys's Clothing</a></li>
+                                <li><a href="#">Baby Clothing</a></li>
+                                <li><a href="#">Baby Care</a></li>
+                                <li><a href="#">Stationary</a></li>
+                                <li><a href="#">Suit Sets</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="#">SPORTS, TOYS AND LUGGAGE &nbsp<i class="arrow down"></i></a>
+                        <div class="submenu">
+                            <ul>
+                                <li><a href="#">Toys & Games</a></li>
+                                <li><a href="#">Bags & Travel Luggage</a></li>
+                                <li><a href="#">Sporting Goods</a></li>
+                                <li><a href="#">Fitness Equipments</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</body>
+</html>
