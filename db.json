@@ -1,0 +1,290 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "womenData": [
+    {
+      "id": 1,
+      "title": "1994 Straight Women Blue Jeans",
+      "catagory": "jeans",
+      "price": 17999,
+      "orgprice": "19999.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410345213007/665/410345213007_1_2719.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "2000 Flare Women Black Jeans",
+      "catagory": "jeans",
+      "price": 14999,
+      "orgprice": "17999.00",
+      "color": "black",
+      "image": "https://diesel.gumlet.io/product/410345215006/665/410345215006_1_9715.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "2000 Flare Women Black Jeans",
+      "catagory": "jeans",
+      "price": 14999,
+      "orgprice": "19999.00",
+      "color": "black",
+      "image": "https://diesel.gumlet.io/product/410345215006/665/410345215006_1_9715.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70"
+      ]
+    },
+    {
+      "title": "5000 Flare Women Black Jeans",
+      "catagory": "jeans",
+      "price": 14999,
+      "orgprice": "19999.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410345215006/665/410345215006_1_9715.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70"
+      ],
+      "id": 4
+    },
+    {
+      "title": "5000 Flare Women Black Jeans",
+      "catagory": "jeans",
+      "price": 14999,
+      "orgprice": "19999.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410345215006/665/410345215006_1_9715.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70"
+      ],
+      "id": 5
+    },
+    {
+      "title": "1969 D-EBBEY Flare Women Blue Jeans",
+      "catagory": "jeans",
+      "price": "11999.00",
+      "orgprice": "19999.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410345262007/665/410345262007_1_9805.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70"
+      ],
+      "id": 6
+    },
+    {
+      "title": "D-ESCRIPTION-FSB Flare Women Blue",
+      "catagory": "jeans",
+      "price": "16199.00",
+      "orgprice": "26999.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410345273006/665/410345273006_1_6786.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70"
+      ],
+      "id": 7
+    },
+    {
+      "title": "D-ESCRIPTION Flare Women Blue Jeans",
+      "catagory": "jeans",
+      "price": "19799.00",
+      "orgprice": "32999.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410345319006/665/410345319006_1_3802.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70"
+      ],
+      "id": 8
+    },
+    {
+      "title": "D-LUITE Wide Women Black Jeans",
+      "catagory": "jeans",
+      "price": "7495.00",
+      "orgprice": "14990.00",
+      "color": "black",
+      "image": "https://diesel.gumlet.io/product/410239941007/665/410239941007_1_5034.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70"
+      ],
+      "id": 9
+    },
+    {
+      "title": "D-EISELLE-B Straight Women Black Jeans",
+      "catagory": "jeans",
+      "price": "20495.00",
+      "orgprice": "40990.00",
+      "color": "black",
+      "image": "https://diesel.gumlet.io/product/410173395001/665/410173395001_1_1436.webp?compress=true&q=70",
+      "id": 10
+    },
+    {
+      "title": "SANDY Straight Women Blue Jeans",
+      "catagory": "jeans",
+      "price": "4995.00",
+      "orgprice": "9990.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410081848007/665/410081848007_1_3126.webp?compress=true&q=70",
+      "id": 11
+    },
+    {
+      "title": "1969 D-EBBEY Flare Women Black Jeans",
+      "catagory": "jeans",
+      "price": "19999.00",
+      "orgprice": "25000.00",
+      "color": "black",
+      "image": "https://diesel.gumlet.io/product/410173395001/665/410173395001_1_1436.webp?compress=true&q=70",
+      "id": 12
+    },
+    {
+      "title": "1994 Straight Women Black Jeans",
+      "catagory": "jeans",
+      "price": "21999.00",
+      "orgprice": "26000.00",
+      "color": "black",
+      "image": "https://diesel.gumlet.io/product/410345067008/665/410345067008_1_5994.webp?compress=true&q=70",
+      "id": 13
+    },
+    {
+      "title": "1994 Straight Women Blue Jeans",
+      "catagory": "jeans",
+      "price": "36999.00",
+      "orgprice": "40000.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410345282007/665/410345282007_1_3352.webp?compress=true&q=70",
+      "id": 14
+    },
+    {
+      "title": "Mayemi Sa-Mayemi D W Sandals",
+      "catagory": "shoes",
+      "price": "4799.00",
+      "orgprice": "7999.00",
+      "color": "pink",
+      "image": "https://diesel.gumlet.io/product/410315404014/665/410315404013_1_3784.webp?compress=true&q=70",
+      "id": 15
+    },
+    {
+      "title": "S-Racer Women Brown Sneakers",
+      "catagory": "shoes",
+      "price": "13799.00",
+      "orgprice": "22999.00",
+      "color": "brown",
+      "image": "https://diesel.gumlet.io/product/410315380007/665/410315380007_1.jpg?compress=true&q=70",
+      "id": 16
+    },
+    {
+      "title": "Serendipity Women Grey Sneakers",
+      "catagory": "shoes",
+      "price": "14",
+      "orgprice": "24999.00",
+      "color": "grey",
+      "image": "https://diesel.gumlet.io/product/410291797005/665/410291797005_1.jpg?compress=true&q=70",
+      "id": 17
+    },
+    {
+      "title": "S-Racer Women Multi Sneakers",
+      "catagory": "shoes",
+      "price": "16199.00",
+      "orgprice": "26999.00",
+      "color": "multi",
+      "image": "https://diesel.gumlet.io/product/410315381006/665/410315381006_1.jpg?compress=true&q=70",
+      "id": 18
+    },
+    {
+      "title": "D-Venus Women Black Pumps",
+      "catagory": "shoes",
+      "price": "26999.00",
+      "orgprice": "44999.00",
+      "color": "black",
+      "image": "https://diesel.gumlet.io/product/410315440004/665/410315440004_1.jpg?compress=true&q=70",
+      "id": 19
+    },
+    {
+      "title": "Kauay Women Pink Sandals",
+      "catagory": "shoes",
+      "price": "4999.00",
+      "orgprice": "3999.00",
+      "color": "pink",
+      "image": "https://diesel.gumlet.io/product/410315346004/665/410315346004_1.jpg?compress=true&q=70",
+      "id": 20
+    },
+    {
+      "title": "Mayemi Women Pink Sandals",
+      "catagory": "shoes",
+      "price": "6999.00",
+      "orgprice": "4899.00",
+      "color": "pink",
+      "image": "https://diesel.gumlet.io/product/410315347007/665/410315347007_1_6544.webp?compress=true&q=70",
+      "id": 21
+    },
+    {
+      "title": "S-Serendipity Women Purple Sneakers",
+      "catagory": "purple",
+      "price": "11999.00",
+      "orgprice": "19999.00",
+      "color": "purple",
+      "image": "https://diesel.gumlet.io/product/410291548008/665/410291548006_1.jpg?compress=true&q=70",
+      "id": 22
+    },
+    {
+      "title": "S-Serendipity Women Purple Sneakers",
+      "catagory": "shoes",
+      "price": "19799.00",
+      "orgprice": "22999.00",
+      "color": "purple",
+      "image": "https://diesel.gumlet.io/product/410291549003/665/410291549002_1.jpg?compress=true&q=70",
+      "id": 23
+    },
+    {
+      "title": "S-Racer Women Multi Sneakers",
+      "catagory": "shoes",
+      "price": "16199.00",
+      "orgprice": "26999.00",
+      "color": "multi",
+      "image": "https://diesel.gumlet.io/product/410315381006/665/410315381006_1.jpg?compress=true&q=70",
+      "id": 24
+    },
+    {
+      "title": "D-Venus Women Black Pumps",
+      "catagory": "shoes",
+      "price": "26999.00",
+      "orgprice": "44999.00",
+      "color": "black",
+      "image": "https://diesel.gumlet.io/product/410315440004/665/410315440004_1.jpg?compress=true&q=70",
+      "id": 25
+    }
+  ]
+}
