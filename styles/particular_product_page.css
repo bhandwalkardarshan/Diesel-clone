@@ -1,0 +1,24 @@
+#particular-product-section{
+    width: 90%;
+    margin: auto;
+    display: flex;
+}
+#four-image{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    width: 60%;
+}
+#four-image>div>img{
+    width: 100%;
+}
+#product-details{
+    width: 30%;
+    padding-left: 2rem;
+   
+}
+#product-details button{
+  background-color: black;
+  color: white;
+  width: 90%;
+  height: 40px;
+}
