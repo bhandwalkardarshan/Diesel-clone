@@ -1,0 +1,298 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+#nav-search2 {
+    height: 40px;
+}
+
+.fa fa-search {
+    height: 50px
+}
+
+img {
+    width: 300px;
+    height: 400px;
+    cursor: pointer;
+}
+
+body {
+    background-color: #FAFAFA;
+
+}
+
+#logo {
+    /* width:170px; */
+    height: 60px;
+
+}
+
+#logo:hover {
+    cursor: pointer;
+}
+
+/* img:hover { */
+/* transform: scale(1.075); */
+/* } */
+
+#div11 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    gap: 15px;
+    text-align: center;
+}
+
+
+span,
+h2,
+h3 {
+    cursor: pointer;
+}
+
+#nav-search {
+    height: 20px;
+}
+
+#kids {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    /* mix-blend-mode: */
+
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    margin: 1rem;
+}
+
+.filter-section {
+    width: 90%;
+    margin: auto;
+}
+
+select {
+    width: 10%;
+    height: 40px;
+    margin: 1rem;
+    background-color: white;
+    outline: none;
+    border: none;
+    margin-bottom: 40px;
+
+}
+
+/* //for smaller screen size */
+@media screen and (min-width:300px) and (max-width:600px) {
+    #div11 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: auto;
+    }
+}
+
+/* //for meidum screen size */
+@media screen and (min-width:601px) and (max-width:1000px) {
+    #div11 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: auto;
+    }
+}
+
+/* ////FOOTER CSS BELOW */
+
+/* //FOOTER  CSS Part BELOW */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    margin: 20px;
+}
+
+.fa:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 26px;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    border-radius: 26px;
+}
+
+.fa-google {
+    background: red;
+    color: white;
+    border-radius: 26px;
+}
+
+.fa-youtube {
+    /* background: #bb0000; */
+    background: brown;
+    color: white;
+    border-radius: 26px;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+    border-radius: 26px;
+}
+
+.fa-android {
+    background: #a4c639;
+    color: white;
+    border-radius: 20px;
+}
+
+#footer_section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+    margin-top: 20px;
+
+}
+
+#sub_footer_1 {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+
+}
+
+#sub_footer_2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #d4dbf5;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+#social_media_h2 {
+    font-weight: 900;
+    font-size: 30px;
+}
+
+#email {
+    width: 400px;
+    height: 35px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    border-radius: 14px;
+    text-align: center;
+    outline: none;
+    background-color: beige;
+
+}
+
+#sign_up_btn {
+    width: 300px;
+    height: 35px;
+    font-weight: 600;
+    background-color: black;
+    color: white;
+    border: 5px solid beige;
+    border-radius: 17px;
+}
+
+#sign_up_btn a {
+    text-decoration: none;
+    color: white;
+}
+
+#sign_up_btn a:hover {
+    color: red;
+}
+
+#sub_footer_1_h2 {
+    color: white;
+    font-weight: 600;
+    padding-bottom: 15px;
+    cursor: default;
+}
+
+#sub_footer_1_p {
+    color: white;
+    padding-bottom: 18px;
+}
+
+#social_media_h2 {
+    cursor: default;
+}
+
+@media screen and (min-width:300px) and (max-width:900px) {
+    #footer_section {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: auto;
+        /* text-align: center; */
+    }
+
+    #sub_footer_1_h2 {
+        text-align: center;
+    }
+
+    #sub_footer_1_p {
+        text-align: center;
+    }
+
+    #social_media_h2 {
+        text-align: center;
+    }
+}
+
+#help_section {
+    background-color: rgb(244, 240, 240);
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.sub_help_section>h5>a {
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+
+.sub_help_section>h5>a:hover {
+
+    color: red
+}
+
+#end_div {
+    background-color: rgb(239, 232, 225);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+}
+
+@media screen and (min-width:300px) and (max-width:600px) {
+    #help_section {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: auto;
+    }
+}
