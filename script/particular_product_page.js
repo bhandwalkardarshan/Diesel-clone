@@ -3,12 +3,13 @@ let clickProduct = JSON.parse(localStorage.getItem("clickProduct"));
 let particularProductSection = document.getElementById("particular-product-section");
 
 let fourImage = document.getElementById("four-image");
-
+let userChooseSize="";
 let productDetails = document.getElementById("product-details");
 showClickedProduct();
 
 function showClickedProduct() {
   //four additional image
+
   let div1 = document.createElement("div");
   let image1 = document.createElement("img");
   image1.setAttribute("src", clickProduct.additionalImg[0]);
@@ -49,30 +50,58 @@ function showClickedProduct() {
 
   let Main = document.createElement("div");
   Main.setAttribute("id","sizes")
-
+ 
   let button1 = document.createElement("button");
   button1.innerText = "26";
+  button1.addEventListener("click",(e)=>{
+    userChooseSize=e.target.innerText
+  })
 
   let button2 = document.createElement("button");
   button2.innerText = "28";
+  button2.addEventListener("click",(e)=>{
+    userChooseSize=e.target.innerText
+})
 
   let button3 = document.createElement("button");
   button3.innerText = "30";
+  button3.addEventListener("click",(e)=>{
+    userChooseSize=e.target.innerText
+})
 
   let button4 = document.createElement("button");
   button4.innerText = "32";
+  button4.addEventListener("click",(e)=>{
+    userChooseSize=e.target.innerText
+})
 
   let button5 = document.createElement("button");
   button5.innerText = "34";
+  button5.addEventListener("click",(e)=>{
+    userChooseSize=e.target.innerText
+})
 
   let button6 = document.createElement("button");
   button6.innerText = "36";
+  button6.addEventListener("click",(e)=>{
+    userChooseSize=e.target.innerText
+})
 
   Main.append(button1, button2, button3, button4, button5, button6);
   
   let btn = document.createElement("button");
   btn.innerText = "ADD TO CART";
   btn.setAttribute("id", "btn");
+  btn.addEventListener("click",(e)=>{
+    console.log(e.target.innerText)
+    if(userChooseSize==""){
+      alert("please select size!");
+  
+    }
+    else{
+
+    }
+  })
 
   let Fav = document.createElement("img");
   Fav.setAttribute("src", "../images/hollow.png");

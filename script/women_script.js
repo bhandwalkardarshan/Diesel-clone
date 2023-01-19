@@ -5,26 +5,24 @@ async function featchingData() {
   try {
     let promise = await fetch("../db.json");
     let res = await promise.json();
+    console.log(res.womenData);
     alldatashow(res.womenData);
-  } catch (error) { }
+  } catch (error) {}
 }
 
 function alldatashow(allwomandata) {
   allwomandata.forEach((element) => {
     let card = document.createElement("div");
-    
+
     let image = document.createElement("img");
     image.setAttribute("src", element.image);
     image.addEventListener("click", (e) => {
-      localStorage.setItem("clickProduct", JSON.stringify(element))
+      localStorage.setItem("clickProduct", JSON.stringify(element));
       window.location.href = "../html/prticular_product_page.html";
+    });
 
-
-    })
-
-
-    let div = document.createElement("div")
-    div.setAttribute("class", "price-style")
+    let div = document.createElement("div");
+    div.setAttribute("class", "price-style");
 
     let price = document.createElement("p");
     price.innerText = `₹${element.price}`;
