@@ -1,24 +1,123 @@
-#particular-product-section{
+/* * {
+    font-size: 20px; 
+} */
+
+h3 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#particular-product-section {
     width: 90%;
     margin: auto;
     display: flex;
 }
-#four-image{
+
+#four-image {
     display: grid;
-    grid-template-columns: repeat(2,1fr);
+    grid-template-columns: repeat(2, 1fr);
     width: 60%;
+    margin-top: 30px;
 }
-#four-image>div>img{
+
+#four-image>div>img {
     width: 100%;
+    /* height: 90%; */
 }
-#product-details{
+
+#product-details {
     width: 30%;
     padding-left: 2rem;
-   
+    margin-top: 30px;
+
 }
-#product-details button{
-  background-color: black;
-  color: white;
-  width: 90%;
-  height: 40px;
+
+
+#product-details p {
+    margin-top: 20px;
+}
+
+#btn {
+    border-radius: 10px;
+    /* margin-bottom: 15px; */
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    /* width: 40%; */
+    /* height: 40px; */
+
+}
+
+#fav2 {
+    border-radius: 20px;
+    margin: 25px;
+    /* border: 1px solid black; */
+    color: white;
+    width: 12%;
+    height: 4%;
+    /* border: none; */
+}
+
+#fav3 {
+    /* border-radius: 20px; */
+    margin: 25px;
+    width: 12%;
+    height: 4%;
+
+}
+
+
+/* medium screen */
+@media all and (min-width: 768px) and (max-width: 1024px) {
+    #Slider {
+        flex-direction: column;
+    }
+    
+}
+
+/* small screens */
+@media all and (min-width: 200px) and (max-width: 767px) {
+    #four-image {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    #Slider {
+        flex-direction: column;
+    }
+
+}
+
+/* ------------------ */
+#Slider {
+    /* border: 1px solid blue; */
+    width: 90%;
+    margin: auto;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.mySlides {
+    margin-top: 10%;
+    width: 90%;
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+}
+#sizes{
+    width: 100%;
+    height: 10%;
+    gap: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    /* border: 1px solid blue; */
+}
+#sizes>button:hover{
+    /* border: 1px solid red; */
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
 }
