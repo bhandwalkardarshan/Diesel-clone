@@ -285,6 +285,20 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410315440004/665/410315440004_1.jpg?compress=true&q=70",
       "id": 25
-    }
+    },
+    {
+      "id": 1,
+      "title": "1994 Straight Women Blue Jeans",
+      "catagory": "jeans",
+      "price": 17999,
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410345213007/665/410345213007_1_2719.webp?compress=true&q=70",
+      "additionalImg": [
+      "https://diesel.gumlet.io/product/410257106006/665/410257106006_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/41 0257106006/665/410257106006_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/produc t/410257106006/665/410257106006_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410257106006/665/410257106006_4.jp g?compress=true&q=70"
+      ]
+      }
   ]
 }
