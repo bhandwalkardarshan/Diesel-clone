@@ -119,3 +119,9 @@ h1{
     color: white;
     font-weight: bold;
 }
+.alreadyloginuser{
+    display: block;   
+}
+.signinSignuptextnone{
+    display:none;
+}

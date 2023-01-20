@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign up</title>
+    <link rel="stylesheet" href="../styles/signup.css" />
+  </head>
+  <body>
+    <img src="../images/logo3.png" alt="Goodwill logo" />
+    <div id="signup-form">
+      <p id="warning" class="noexistwarning{
+        ">&#9888; Already exist!</p>
+      <h3>Sign Up</h3>
+      <!-- signup form submit by user-->
+      <form id="signup">
+        <input type="text" placeholder="First and last name" class="input" id="username"/>
+        <input type="number" placeholder="Mobile number" class="input" id="usermobilenumber"/>
+        <input type="password" placeholder="Set password" class="input" id="userpassword"/>
+        <p>&#9888; Password must be at least 6 characters</p>
+        <input type="checkbox" name="" id="showpasswordcheck" />
+        <label for="showpassword">Show Password</label>
+        <input type="submit" value="Signup" class="input" id="register" />
+      </form>
+      <!-- endof form -->
+      <p>Already have an account? <a href="../html/signin.html">Sign in</a></p>
+    </div>
+  </body>
+  <script src="../script/signup.js"></script>
+</html>
