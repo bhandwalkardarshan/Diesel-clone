@@ -19,7 +19,6 @@ if (activeloginuser) {
 }
 //<--------------user show end---------------->
 showcartproduct();
-
 function showcartproduct() {
   let sum=0;
   let count=0;
@@ -90,3 +89,17 @@ function showcartproduct() {
   });
 
 }
+
+
+//for checkout page
+
+let checkoutbtn=document.getElementById("checkoutbtn");
+checkoutbtn.addEventListener("click",()=>{
+  if(total.innerText==""){
+    alert("Not any cart product for buy");
+    return;
+  }else{
+    window.location.href="../html/payment.html"
+  }
+ 
+})

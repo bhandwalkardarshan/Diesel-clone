@@ -13,18 +13,41 @@ if (activeloginuser) {
 }
 
 //for cart count show
-if(activeloginuser!=null){
+if (activeloginuser != null) {
+  let cartcount = document.getElementById("cart-count");
+  let count = 0;
+  cartproduct.forEach((element) => {
+    if (element.cartusermobilenumber == activeloginuser.usermobilenumber) {
+      cartcount.innerText = ++count;
+    }
+  });
+  // window.location.href="../html/userdashboard.html"
+}
 
-
-let cartcount = document.getElementById("cart-count");
-let count = 0;
-cartproduct.forEach((element) => {
-  if (element.cartusermobilenumber == activeloginuser.usermobilenumber) {
-    cartcount.innerText = ++count;
+//for new signin signup
+let forNewSignin = document.getElementById("signin");
+forNewSignin.addEventListener("click", () => {
+  console.log("before null");
+  if (activeloginuser == null) {
+    console.log("after null");
+    window.location.href = "../html/signin.html";
+  } else {
+    window.location.href = "../html/userdashboard.html";
   }
 });
-}
+
 //<--------------->
+// for new signup
+let forNewSignup = document.getElementById("signup");
+forNewSignup.addEventListener("click", () => {
+  // console.log("before null")
+  if (activeloginuser == null) {
+    // console.log("after null")
+    window.location.href = "../html/signup.html";
+  } else {
+    window.location.href = "../html/userdashboard.html";
+  }
+});
 
 let allProductSection = document.getElementById("all-product-section");
 featchingData();
@@ -39,6 +62,7 @@ async function featchingData() {
 }
 
 function alldatashow(allwomandata) {
+  allProductSection.innerHTML=null;
   allwomandata.forEach((element) => {
     let card = document.createElement("div");
 
@@ -72,3 +96,44 @@ function alldatashow(allwomandata) {
     allProductSection.append(card);
   });
 }
+
+//for woman jeans
+
+let jeans = document.getElementById("jeans");
+jeans.addEventListener("click", () => {
+ 
+  featchingDataforjeans();
+  async function featchingDataforjeans() {
+    try {
+      let promise = await fetch("../db.json");
+      let res = await promise.json();
+      let womenjeans = res.womenData.filter((element) => {
+        if (element.catagory == "jeans") {
+          return true;
+        }
+      });
+      // console.log(womenjeans)
+      alldatashow(womenjeans);
+    } catch (error) {}
+  }
+});
+//for woman jeans
+
+let dress = document.getElementById("jeans");
+jeans.addEventListener("click", () => {
+ 
+  featchingDataforjeans();
+  async function featchingDataforjeans() {
+    try {
+      let promise = await fetch("../db.json");
+      let res = await promise.json();
+      let womenjeans = res.womenData.filter((element) => {
+        if (element.catagory == "dress") {
+          return true;
+        }
+      });
+      console.log(womenjeans)
+      alldatashow(womenjeans);
+    } catch (error) {}
+  }
+});
