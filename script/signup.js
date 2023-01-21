@@ -20,6 +20,15 @@ signup.addEventListener("submit", (e) => {
   ) {
     alert("Somthing wrong!");
   } else {
+    if(signup.usermobilenumber.value.length < 10){
+      alert("please enter 10 digit mobile number");
+      return;
+    }
+    if(signup.userpassword.value.length<6){
+      alert("please enter atleast 6 character");
+      return;
+    }
+
     for (let phonenumber of signUpUser) {
       if (signup.usermobilenumber.value == phonenumber.usermobilenumber) {
         warning.style.display = "block";
@@ -41,5 +50,5 @@ function stroeDataofsignupUser(obj) {
   localStorage.setItem("activeLoginUser", JSON.stringify(obj));
 
   alert("Congratulation! you are welcome");
-  window.location.href = "../html/signin.html";
+  window.location.href = "../html/index.html";
 }

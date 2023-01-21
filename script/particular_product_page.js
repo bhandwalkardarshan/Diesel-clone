@@ -1,10 +1,31 @@
+let cartproduct = JSON.parse(localStorage.getItem("cart")) || [];
 let clickProduct = JSON.parse(localStorage.getItem("clickProduct"));
 let activeloginuser = JSON.parse(localStorage.getItem("activeLoginUser"));
-let cartproduct = JSON.parse(localStorage.getItem("cart")) || [];
+
 
 let particularProductSection = document.getElementById(
   "particular-product-section"
 );
+
+
+
+//for cart count show
+if(activeloginuser!=null){
+
+
+  let cartcount = document.getElementById("cart-count");
+  let count = 0;
+  cartproduct.forEach((element) => {
+    if (element.cartusermobilenumber == activeloginuser.usermobilenumber) {
+      cartcount.innerText = ++count;
+    }
+  });
+  }
+//<--------------->
+
+
+
+
 
 let fourImage = document.getElementById("four-image");
 let userChooseSize = "";
@@ -123,10 +144,15 @@ function showClickedProduct() {
   btn.innerText = "ADD TO CART";
   btn.setAttribute("id", "btn");
   btn.addEventListener("click", (e) => {
+   
+
+
     console.log(e.target.innerText);
     if (userChooseSize == "") {
       alert("please select size!");
-    } else {
+    }
+    
+    else {
       if (JSON.parse(localStorage.getItem("activeLoginUser")) == null) {
         alert("You have to login first");
         setTimeout(() => {
@@ -138,8 +164,19 @@ function showClickedProduct() {
         // loginuserlive.innerHTML = `Hello`;
         signinText.classList.remove("signinSignuptextnone");
         signinText.innerText = `Hello, ${activeloginuser.username}`;
+
+        
+        for(let element of cartproduct){
+          if(element.cartusermobilenumber==activeloginuser.usermobilenumber){
+              if(clickProduct.id==element.cartproductid){
+                alert("already you cart this product");
+                return;
+              }
+          }
+        }
+
         let obj = {
-          cartusername: activeloginuser.username,
+          cartusermobilenumber: activeloginuser.usermobilenumber,
           cartproductimage: clickProduct.additionalImg[0],
           cartproducttitle: clickProduct.title,
           cartproductprice: clickProduct.price,

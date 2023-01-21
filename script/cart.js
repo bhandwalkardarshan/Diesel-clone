@@ -2,83 +2,91 @@ let cartproduct = JSON.parse(localStorage.getItem("cart")) || [];
 let activeLoginUser = JSON.parse(localStorage.getItem("activeLoginUser"));
 let cartlist = document.getElementById("cartlist");
 let item = document.querySelector(".item");
+let cartcount=document.getElementById("cart-count");
+let total=document.getElementById("total");
+//<--------for display login user--------------->
+let activeloginuser = JSON.parse(localStorage.getItem("activeLoginUser"));
+let signinText = document.getElementById("signin");
+let signupText = document.getElementById("signup");
+if (activeloginuser) {
+  signinText.classList.add("signinSignuptextnone");
+  signupText.classList.add("signinSignuptextnone");
+  signinText.classList.remove("signinSignuptextnone");
+  signinText.innerText = `Hello, ${activeloginuser.username}`;
+} else {
+  signinText.classList.remove("signinSignuptextnone");
+  signupText.classList.remove("signinSignuptextnone");
+}
+//<--------------user show end---------------->
 showcartproduct();
 
 function showcartproduct() {
-  cartproduct.forEach((element) => {
-    // if(element.cartusername==activeLoginUser.username){
-    // let div1 = document.createElement("div");
-    // div1.setAttribute("class", "productDetails");
-    // let productimg = document.createElement("img");
-    // productimg.setAttribute("src", element.cartproductimage);
-    // let producttitle = document.createElement("h3");
-    // producttitle.innerText = element.cartproducttitle;
-    // let productcolor = document.createElement("p");
-    // productcolor.innerText = `COLOR: ${element.cartproductcolor}`;
-    // let productsize = document.createElement("p");
-    // productsize.innerText = `SIZE: ${element.cartproductsize}`;
-    // div1.append(
-    //   productimg,
-    //   producttitle,
-    //   producttitle,
-    //   productcolor,
-    //   productsize
-    // );
-    // //product increment delete
-    // let div2 = document.createElement("div");
-    // div2.setAttribute("class", "product-quantity");
-    // let dbtn = document.createElement("button");
-    // dbtn.innerText = "-";
-    // let incquantty = document.createElement("span");
-    // incquantty.innerText = element.cartproductquantity;
-    // let ibtn = document.createElement("button");
-    // ibtn.innerText = "+";
-    // let deletebtn = document.createElement("button");
-    // deletebtn.innerText = "Delete me";
-    // deletebtn.style.backgroundColor = "red";
-    // deletebtn.style.color = "white";
-    // let priceshow = document.createElement("h3");
-    // priceshow.innerText = element.cartproductprice;
-    // div2.append(dbtn, incquantty, ibtn, deletebtn, priceshow);
+  let sum=0;
+  let count=0;
+  cartlist.innerHTML=null;
 
-    // // productDetails.append(productimg,producttitle,producttitle,productcolor,productsize);
-    // // productQuantity.append(dbtn,incquantty,ibtn,deletebtn,priceshow);
-    // cartlist.append(div1,div2);
-    // }
-    if (element.cartusername == activeLoginUser.username) {
-      let card = `
-      <div class="buttons">
-       
-      <!-- <span class="like-btn"></span> -->
-    </div>
+  cartproduct.forEach((element,index) => {
+    if(element.cartusermobilenumber==activeLoginUser.usermobilenumber){
+      cartcount.innerText=++count;
+    let div1 = document.createElement("div");
+    div1.setAttribute("class", "productDetails");
+    let productimg = document.createElement("img");
+    productimg.setAttribute("src", element.cartproductimage);
+    let producttitle = document.createElement("h4");
+    producttitle.innerText = element.cartproducttitle;
+    let productcolor = document.createElement("p");
+    productcolor.innerText = `COLOR: ${element.cartproductcolor}`;
+    let productsize = document.createElement("p");
+    productsize.innerText = `SIZE: ${element.cartproductsize}`;
+    let productprice = document.createElement("h4");
+    productprice.innerText = `Price: ${element.cartproductprice}`;
+   
+      let ibtn=document.createElement("button")
+      ibtn.innerText="+";
+      ibtn.addEventListener("click",()=>{
+        ++element.cartproductquantity;
+        localStorage.setItem("cart",JSON.stringify(cartproduct));
+        showcartproduct();
+      })
 
-    <div class="image" id="imagesize">
-      <img src=${element.cartproductimage} alt="" />
-    </div>
 
-    <div class="description">
-      <span>Common Projects</span>
-      <span>Bball High</span>
-      <span>White</span>
-      <span>Size</span>
-    </div>
-
-    <div class="quantity">
-      <button class="plus-btn" type="button" name="button">
-        <img src="https://designmodo.com/demo/shopping-cart/plus.svg" alt="" />
-      </button>
-      <input type="text" name="name" value="1">
-      <button class="minus-btn" type="button" name="button">
-        <img src="https://designmodo.com/demo/shopping-cart/minus.svg" alt="" />
-      </button>
+      let quantity=document.createElement("span")
+      quantity.innerText=element.cartproductquantity
+      let dbtn=document.createElement("button")
+      dbtn.innerText="-";
+      if(element.cartproductquantity!=1){
+        dbtn.addEventListener("click",()=>{
+          --element.cartproductquantity;
+          localStorage.setItem("cart",JSON.stringify(cartproduct));
+          showcartproduct();
+        })
+      }
       
-    </div>
+      let deletebtn=document.createElement("button")
+      deletebtn.innerText="Remove";
+      deletebtn.addEventListener("click",()=>{
+        cartproduct.splice(index,1);
+        // console.log(cartproduct);
+        localStorage.setItem("cart", JSON.stringify(cartproduct))
+        window.location.reload();
+        showcartproduct(cartproduct)
+      })
+      div1.append(
+        productimg,
+        producttitle,
+        producttitle,
+        productcolor,
+        productsize,
+        productprice,
+        ibtn,quantity,dbtn,deletebtn
+      );
+        sum+=element.cartproductquantity*element.cartproductprice;
 
-    <div class="total-price">$549</div>
-    <i class="material-icons" style="font-size:35px;color:red">delete</i>
-  </div>
-      `;
-      item.innerHTML=card;
+
+
+    cartlist.append(div1)
     }
+    total.innerText="Total: ₹"+sum;
   });
+
 }

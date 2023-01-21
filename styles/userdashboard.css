@@ -1,3 +1,7 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 /* **********nav bar css*********** */
 *{
     padding: 0%;
@@ -167,6 +171,8 @@ input[type=search] {
     display: block;
     }
 }
+/* nav css end */
+
 
 /* from here new design */
 
@@ -186,4 +192,35 @@ input[type=search] {
     /* background-color: white; */
     color: white;
     font-weight: 600;
+  }
+
+
+#user-details{
+    width:80%;
+    margin: auto;
+    margin-top: 25px;
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  #customers tr:hover {background-color: #ddd;}
+
+  #customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  #customers td{
+    cursor: pointer;
+  }
+  #logout:hover{
+    background-color: red;
+    color: white;
   }
