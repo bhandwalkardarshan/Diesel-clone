@@ -9,13 +9,15 @@
 </head>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-<link rel="stylesheet" href="..\styles\index_styles.css" />
+<!-- <link rel="stylesheet" href="..\styles\index_styles.css" /> -->
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- <link rel="stylesheet" href="../styles/woman_style.css" /> -->
-<link rel="stylesheet" href="../styles/kids_style.css"/>
-
+<!-- <link rel="stylesheet" href="../styles/kids_style.css" /> -->
+<link rel="stylesheet" href="..\styles\footer.css"/>
+<link rel="stylesheet" href="..\styles\kids_style.css" />
+<!-- <link rel="stylesheet" href="..\styles\footer.css" /> -->
 </head>
 
 <body>
@@ -47,27 +49,23 @@
             <div class="nav">
                 <ul>
                     <li>
-                        <a href="../html/index.html"><img src="..\images\logo3.png" id="logo" alt="" /></a>
+                        <a href="../html/index.html"><img src="..\images\logo3.png"
+                                style="border-radius: 5px; margin-top:5px" id="logo" alt="" /></a>
+                    </li>
+                    <li style="display: flex;margin-top: 10px;width: 30%;">
+                        <input type="search" placeholder="Search products, brands and more...">
+                        <button id="search-btn"><i class="fa fa-search" style="font-size:15px;"></i></button>
                     </li>
                     <li>
-                        <div type="text" id="nav-search" style="width: 120%">
-                            <h4>Search essentials, groceries and more...</h4>
-                            <div id="nav-search2">
-                                <h4>
-                                    <i class="fa fa-search" style="font-size: 15px"></i>&nbsp
-                                    Search
-                                </h4>
-                            </div>
-                        </div>
-                    </li>
-                    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
-                    <li>
-                        <a href="#"><i class="glyphicon glyphicon-user"></i>&nbsp Sign up/Sign
-                            in</a>
+                        <a href="../html/signup.html"><i class="glyphicon glyphicon-user"></i>&nbsp Sign up/Sign in</a>
                     </li>
                     <li>
                         <a href="#">&nbsp &nbsp
                             <i class="fa fa-shopping-cart" style="font-size: 24px; color: white"></i>&nbsp Cart</a>
+                    </li>
+                    <li>
+                        <a href="#">&nbsp &nbsp
+                            <i class="fa fa-heart-o" style="font-size: 24px; color: white"></i>&nbsp Wishlist</a>
                     </li>
                 </ul>
             </div>
@@ -180,8 +178,8 @@
         <h1 id="kids">KIDS</h1>
         <div class="filter-section">
             <span>FILTER BY</span>
-            <!-- filter by color -->
-            <select name="color" id="color">
+    <!-- filter by color -->
+    <select name="color" id="color">
                 <option value="">Color</option>
                 <option value="blue">Blue</option>
                 <option value="black">Black</option>
@@ -193,8 +191,8 @@
                 <option value="grey">Grey</option>
                 <option value="pink">Pink</option>
             </select>
-            <!-- filter by size -->
-            <select name="apparels" id="apparels">
+    <!-- filter by size -->
+    <select name="apparels" id="apparels">
                 <option value="">Apparels</option>
                 <option value="T-shirt">T-shirt</option>
                 <option value="Pants">Pants</option>
@@ -203,25 +201,26 @@
                 <option value="Shoes">Shoes</option>
                 <option value="Shirts">Shirts</option>
             </select>
-            <!-- filter by price -->
-            <select name="price" id="price">
+    <!-- filter by price -->
+    <select name="price" id="price">
                 <option value="">Sort by Price</option>
                 <option value="h2l">High to low</option>
                 <option value="l2h">Low to High</option>
             </select>
-            <!-- filter by alphabate ordre -->
-            <select name="order" id="order">
+    <!-- filter by alphabate ordre -->
+    <select name="order" id="order">
                 <option value="">A to Z / Z to A</option>
                 <option value="asc">Ascending Order</option>
                 <option value="Dsce">Descending Order</option>
             </select>
 
-        </div>
-        <!-- //appending all cards to div11 -->
-        <div id="div11">
+     </div> 
+    <!-- //appending all cards to div11 -->
+    <div id="div11">
         </div>
 
-        <!-- ************ //FOOTER SECTION starts below  ************* -->
+        <!-- ******************************************** -->
+          <!-- ************ //FOOTER SECTION starts below  ************* -->
         <div id="footer_section">
             <div id="sub_footer_1">
                 <div>
@@ -231,55 +230,66 @@
                 <div>
                     <p id="sub_footer_1_p">
                         By clicking Sign up you have read and agreed to our privacy policy !!</p>
-                </div>
-                <button id="sign_up_btn"><a href="#">Sign up</a></button>
+    </div>
+                <button id="sign_up_btn"><a href="../html/signup.html">Sign up</a></button>
             </div>
             <div id="sub_footer_2">
                 <div>
                     <h2 id="social_media_h2">Connect with us on social media</h2>
-                </div>
-                <div>
+    </div>
+                <div class="fas">
                     <div><a href="https://www.facebook.com/Diesel" class="fa fa-facebook"></a>
                         <a href="https://www.facebook.com/Diesel" class="fa fa-twitter"></a>
-                        <a href="#" class="fa fa-google"></a>
+    <a href="#" class="fa fa-google"></a>
                     </div>
-                    <div>
+                    <div class="fas">
                         <a href="#" class="fa fa-linkedin"></a>
-                        <a href="https://www.youtube.com/user/DieselPlanet" class="fa fa-youtube"></a>
-                        <a href="https://www.instagram.com/diesel/" class="fa fa-instagram"></a>
+                        <a href="https://www.youtube.com/user/DieselPlanet" class="fa fa-youtube"></a> 
+     <a href="https://www.instagram.com/diesel/" class="fa fa-instagram"></a>
                     </div>
-                    <!-- <a href="#" class="fa fa-android"></a> -->
-                </div>
+     <!-- <a href="#" class="fa fa-android"></a>  -->
+    </div>
             </div>
         </div>
         <div id="help_section">
             <div class="sub_help_section">
                 <h5><a href="#">About Us</a></h5>
-                <h5><a href="#">FAQ</a></h5>
+    <h5><a href="#">FAQ</a></h5>
                 <h5><a href="#">Our Team</a></h5>
                 <h5><a href="#">Testimonials</a></h5>
             </div>
-            <div class="sub_help_section">
+    <div class="sub_help_section">
                 <h5><a href="#">Referral Program</a></h5>
                 <h5><a href="#">Careers</a></h5>
                 <h5><a href="#">Join us</a></h5>
                 <h5><a href="#">Policies</a></h5>
-            </div>
+    </div>
             <div class="sub_help_section">
                 <h5><a href="#">Cookie Policy & Terms</a></h5>
                 <h5><a href="#">World Of Diesel</a></h5>
-                <h5><a href="#">Store Locator</a></h5>
+     <h5><a href="#">Store Locator</a></h5>
                 <h5><a href="#">Help</a></h5>
             </div>
-        </div>
-        <div><p id="end_div" >Copyright ©️2021 Diesel Fashion India Reliance Pvt.Ltd</p></div>
-
-
+     </div>
+        <div>
+            <p id="end_div">Copyright ©️2021 Diesel Fashion India Reliance Pvt.Ltd</p>
+        </div> 
+    
+   
 </body>
+
 </html>
 
-<script src="..\script\index_script.js"></script>
+<script src="../script/index_script.js"></script>
 <script src="../script/kids_script.js"></script>
+<script src="../html/prticular_product_page.html"></script>
+<script src="../html/signup.html"></script>
+<script src="../html/signin.html"></script>
+
+<script src="../styles/index_styles.css"></script>
+<script src="../html/footer.html"></script>
+
+
 <!-- <script src="../script/particular_product_page.js"></script>
 <script src="../html/prticular_product_page.html"></script>
 <script src="../styles/particular_product_page.css"></script> -->
