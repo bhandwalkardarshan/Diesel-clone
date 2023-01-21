@@ -24,7 +24,8 @@ signup.addEventListener("submit", (e) => {
   } else {
 
     alert("Somthing wrong!");
-  } else {
+  } 
+  else {
     if(signup.usermobilenumber.value.length < 10){
       alert("please enter 10 digit mobile number");
       return;

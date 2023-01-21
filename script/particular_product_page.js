@@ -7,6 +7,32 @@ let particularProductSection = document.getElementById(
   "particular-product-section"
 );
 
+let forNewSignin=document.getElementById("signin");
+forNewSignin.addEventListener("click",()=>{
+    console.log("before null")
+    if(activeloginuser==null){
+        console.log("after null")
+        window.location.href="../html/signin.html"
+    }
+    else{
+        window.location.href="../html/userdashboard.html"
+    }
+});
+
+// for new signup
+let forNewSignup=document.getElementById("signup");
+forNewSignup.addEventListener("click",()=>{
+    // console.log("before null")
+    if(activeloginuser==null){
+        // console.log("after null")
+        window.location.href="../html/signup.html"
+    }
+    else{
+        window.location.href="../html/userdashboard.html"
+    }
+});
+
+
 
 
 //for cart count show

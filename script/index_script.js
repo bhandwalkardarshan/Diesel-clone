@@ -1,6 +1,32 @@
 let activeloginuser = JSON.parse(localStorage.getItem("activeLoginUser"));
 let cartproduct = JSON.parse(localStorage.getItem("cart")) || [];
 
+//for new signin signup
+let forNewSignin=document.getElementById("signin");
+forNewSignin.addEventListener("click",()=>{
+    console.log("before null")
+    if(activeloginuser==null){
+        console.log("after null")
+        window.location.href="../html/signin.html"
+    }
+    else{
+        window.location.href="../html/userdashboard.html"
+    }
+});
+
+// for new signup
+let forNewSignup=document.getElementById("signup");
+forNewSignup.addEventListener("click",()=>{
+    // console.log("before null")
+    if(activeloginuser==null){
+        // console.log("after null")
+        window.location.href="../html/signup.html"
+    }
+    else{
+        window.location.href="../html/userdashboard.html"
+    }
+});
+
 
 
 //for cart count show
