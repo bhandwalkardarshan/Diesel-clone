@@ -1,3 +1,31 @@
+let activeloginuser = JSON.parse(localStorage.getItem("activeLoginUser"));
+let cartproduct = JSON.parse(localStorage.getItem("cart")) || [];
+let signinText = document.getElementById("signin");
+let signupText = document.getElementById("signup");
+if (activeloginuser) {
+  signinText.classList.add("signinSignuptextnone");
+  signupText.classList.add("signinSignuptextnone");
+  signinText.classList.remove("signinSignuptextnone");
+  signinText.innerText = `Hello, ${activeloginuser.username}`;
+} else {
+  signinText.classList.remove("signinSignuptextnone");
+  signupText.classList.remove("signinSignuptextnone");
+}
+
+//for cart count show
+if(activeloginuser!=null){
+
+
+let cartcount = document.getElementById("cart-count");
+let count = 0;
+cartproduct.forEach((element) => {
+  if (element.cartusermobilenumber == activeloginuser.usermobilenumber) {
+    cartcount.innerText = ++count;
+  }
+});
+}
+//<--------------->
+
 let allProductSection = document.getElementById("all-product-section");
 featchingData();
 
@@ -5,26 +33,24 @@ async function featchingData() {
   try {
     let promise = await fetch("../db.json");
     let res = await promise.json();
+    console.log(res.womenData);
     alldatashow(res.womenData);
-  } catch (error) { }
+  } catch (error) {}
 }
 
 function alldatashow(allwomandata) {
   allwomandata.forEach((element) => {
     let card = document.createElement("div");
-    
+
     let image = document.createElement("img");
     image.setAttribute("src", element.image);
     image.addEventListener("click", (e) => {
-      localStorage.setItem("clickProduct", JSON.stringify(element))
+      localStorage.setItem("clickProduct", JSON.stringify(element));
       window.location.href = "../html/prticular_product_page.html";
+    });
 
-
-    })
-
-
-    let div = document.createElement("div")
-    div.setAttribute("class", "price-style")
+    let div = document.createElement("div");
+    div.setAttribute("class", "price-style");
 
     let price = document.createElement("p");
     price.innerText = `₹${element.price}`;

@@ -1,10 +1,13 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 /* **********nav bar css*********** */
 *{
     padding: 0%;
     margin: 0%;
     box-sizing: border-box;
     list-style: none;
-
 }
 body{
     position: relative;
@@ -143,47 +146,6 @@ input[type=search] {
     color: rgb(0,142,204);
     font-size: 15px;
 }
-.banner1>button{
-    /* top: 20%; */
-    background-color: red;
-    color: white;
-    border: none;
-    font-weight: 600;
-    font-size: 16px;
-    padding: 12px 24px;
-    border: none;
-    cursor: pointer;
-    text-align: center;
-}
-.man{
-    position: absolute;
-    transform: translate(-50%, -50%); 
-    -ms-transform: translate(-50%, -50%);
-    top: 5%;
-    left: 44%;
-}
-.woman{
-    position: absolute;
-    transform: translate(-50%, -50%); 
-    -ms-transform: translate(-50%, -50%);
-    top: 5%;
-    left: 56%;
-}
-.man:hover, .woman:hover{
-    border: 2px solid red;
-    color:red;
-    background: transparent;
-}
-/* *******slider css******* */
-.slidermain{
-    display: flex;
-    justify-content: space-around;
-    width: 100%;
-}
-.slidermain .subslider{
-    margin: auto;
-    font-weight: 1000;
-}
 @media (max-width:968px){
     #navtop{
     display: block;
@@ -209,6 +171,8 @@ input[type=search] {
     display: block;
     }
 }
+/* nav css end */
+
 
 /* from here new design */
 
@@ -228,4 +192,35 @@ input[type=search] {
     /* background-color: white; */
     color: white;
     font-weight: 600;
+  }
+
+
+#user-details{
+    width:80%;
+    margin: auto;
+    margin-top: 25px;
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  #customers tr:hover {background-color: #ddd;}
+
+  #customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  #customers td{
+    cursor: pointer;
+  }
+  #logout:hover{
+    background-color: red;
+    color: white;
   }

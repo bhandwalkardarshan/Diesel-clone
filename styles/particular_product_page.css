@@ -3,7 +3,6 @@
 } */
 
 h3 {
-    font-size: 40px;
     font-weight: bold;
 }
 
@@ -21,7 +20,7 @@ h3 {
 }
 
 #four-image>div>img {
-    width: 100%;
+    width: 70%;
     /* height: 90%; */
 }
 
@@ -42,10 +41,9 @@ h3 {
     /* margin-bottom: 15px; */
     background-color: black;
     color: white;
-    font-size: 20px;
+    /* font-size: 20px; */
     padding: 10px;
-    /* width: 40%; */
-    /* height: 40px; */
+    width: 40%;
 
 }
 
@@ -121,3 +119,19 @@ h1{
     color: white;
     font-weight: bold;
 }
+
+#cart-count{
+    /* background-color: white; */
+    color: white;
+    font-weight: 600;
+  }
+
+
+/* display login user style */
+.alreadyloginuser{
+    display: block;   
+}
+.signinSignuptextnone{
+    display:none;
+}
+/* end */
