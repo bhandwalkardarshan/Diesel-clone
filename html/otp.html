@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OTP</title>
+    <style>
+        * {
+            text-align: center;
+            font-size: 20px;
+        }
+
+        h1 {
+            font-size: 50px;
+        }
+
+        input {
+            padding: 10px;
+        }
+
+        form {
+            margin: auto;
+            background-color: #F9FBE7;
+            width: 30%;
+            height: 500px;
+            box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+        }
+
+        #otp {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px;
+            margin: auto;
+            border: none;
+            width: auto;
+            border-radius: 7px;
+            cursor: pointer;
+            font-size: 20px;
+            /* font-weight: bold; */
+            text-align: center;
+            outline: none;
+        }
+
+        input {
+            border-radius: 7px;
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <div>
+
+
+
+        <form>
+            <h1>OTP Verification</h1>
+            <input type="number" placeholder="Enter Your OTP here" id="first">
+            <br>
+            <br>
+            <br>
+            <input type="submit" id="otp" value="Verify Your OTP" required>
+        </form>
+    </div>
+
+
+
+</body>
+
+</html>
+
+
+<script>
+
+    let Entered = document.querySelector("#first");
+
+    let checkOTP = JSON.parse(localStorage.getItem("OTP"));
+    // console.log(checkOTP);
+    let verify = document.querySelector("#otp");
+
+    verify.addEventListener("click", function (event) {
+        event.preventDefault();
+            
+        //  console.log(checkOTP);
+        // console.log(Entered.value);
+            
+        if (checkOTP === Entered.value) {
+            window.location.href = "Success.html";
+        }
+        else{
+            window.location.href = "Failed.html";
+
+            setTimeout(function(){
+                window.location.href = "../html/Payment.html"
+            },3000)
+        
+        }
+    })
+
+
+</script>
