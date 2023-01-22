@@ -2,6 +2,7 @@ let activeloginuser = JSON.parse(localStorage.getItem("activeLoginUser"));
 let cartproduct = JSON.parse(localStorage.getItem("cart")) || [];
 let signinText = document.getElementById("signin");
 let signupText = document.getElementById("signup");
+let fortempdata;
 if (activeloginuser) {
   signinText.classList.add("signinSignuptextnone");
   signupText.classList.add("signinSignuptextnone");
@@ -56,7 +57,8 @@ async function featchingData() {
   try {
     let promise = await fetch("../db.json");
     let res = await promise.json();
-    console.log(res.womenData);
+    fortempdata=res.womenData
+    // console.log(res.womenData);
     alldatashow(res.womenData);
   } catch (error) {}
 }
@@ -117,10 +119,10 @@ jeans.addEventListener("click", () => {
     } catch (error) {}
   }
 });
-//for woman jeans
+//for woman shoes
 
-let dress = document.getElementById("jeans");
-jeans.addEventListener("click", () => {
+let shoes = document.getElementById("shoes");
+shoes.addEventListener("click", () => {
  
   featchingDataforjeans();
   async function featchingDataforjeans() {
@@ -128,7 +130,7 @@ jeans.addEventListener("click", () => {
       let promise = await fetch("../db.json");
       let res = await promise.json();
       let womenjeans = res.womenData.filter((element) => {
-        if (element.catagory == "dress") {
+        if (element.catagory == "shoes") {
           return true;
         }
       });
@@ -137,3 +139,147 @@ jeans.addEventListener("click", () => {
     } catch (error) {}
   }
 });
+//for woman tops
+
+let tops = document.getElementById("tops");
+tops.addEventListener("click", () => {
+ 
+  featchingDataforjeans();
+  async function featchingDataforjeans() {
+    try {
+      let promise = await fetch("../db.json");
+      let res = await promise.json();
+      let womenjeans = res.womenData.filter((element) => {
+        if (element.catagory == "tops") {
+          return true;
+        }
+      });
+      console.log(womenjeans)
+      alldatashow(womenjeans);
+    } catch (error) {}
+  }
+});
+//for woman wallet
+
+let wallet = document.getElementById("wallet");
+wallet.addEventListener("click", () => {
+ 
+  featchingDataforjeans();
+  async function featchingDataforjeans() {
+    try {
+      let promise = await fetch("../db.json");
+      let res = await promise.json();
+      let womenjeans = res.womenData.filter((element) => {
+        if (element.catagory == "wallet") {
+          return true;
+        }
+      });
+      console.log(womenjeans)
+      alldatashow(womenjeans);
+    } catch (error) {}
+  }
+});
+
+
+
+// filter product by color------------------>
+let color=document.getElementById("color");
+color.addEventListener("change",()=>{
+  filterbycolor(color.value)
+  
+})
+function filterbycolor(colorname){
+  if(colorname==""){
+    alldatashow(fortempdata)
+  }
+  else{
+    let t=fortempdata.filter(element=>{
+      if(element.color==colorname){
+        return true;
+      }
+    })
+    console.log(t)
+    alldatashow(t);
+  }
+ 
+}
+// filter product by category------------------>
+let category=document.getElementById("category");
+category.addEventListener("change",()=>{
+  filterbycategory(category.value)
+  
+})
+function filterbycategory(categoryname){
+  if(categoryname==""){
+    alldatashow(fortempdata)
+  }
+  else{
+    let t=fortempdata.filter(element=>{
+      if(element.catagory==categoryname){
+        return true;
+      }
+    })
+    console.log(t)
+    alldatashow(t);
+  }
+ 
+}
+// filter product by price------------------>
+let price=document.getElementById("price");
+price.addEventListener("change",()=>{
+  filterbyprice(price.value)
+  
+})
+function filterbyprice(pricerange){
+  let t1=fortempdata
+  if(pricerange==""){
+    window.location.href="../html/woman.html"
+  }
+  else{
+      if("l2h"==pricerange){
+        
+        t1.sort((a,b)=>+a.price - +b.price);
+        alldatashow(t1)
+      }
+      else if("h2l"==pricerange){
+        t1.sort((a,b)=>+b.price - +a.price);
+        alldatashow(t1)
+      }
+
+  }
+}
+// filter product by order------------------>
+let order=document.getElementById("order");
+order.addEventListener("change",()=>{
+  filterbyoredr(order.value)
+  
+})
+function filterbyoredr(order){
+  let t1=fortempdata
+  if(order==""){
+    window.location.href="../html/woman.html"
+  }
+  else{
+      if("asc"==order){
+        
+        t1.sort((a,b)=>{
+          if(a.title < b.title) { return -1; }
+          if(a.title > b.title) { return 1; }
+          return 0;
+        });
+        alldatashow(t1)
+      }
+      else if("dsce"==order){
+        
+        t1.sort((a,b)=>{
+          if(a.title < b.title) { return 1; }
+          if(a.title > b.title) { return -1; }
+          return 0;
+        });
+        alldatashow(t1)
+      }
+
+  }
+}
+
+
