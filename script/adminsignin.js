@@ -19,13 +19,17 @@ async function foradminuser(obj) {
     if (
       adminuser.username == obj.username &&
       adminuser.password == obj.password
-    ) {
+    ) 
+    {
       localStorage.setItem(
         "activeadminuser",
         JSON.stringify(adminuser.username)
       );
       window.location.href = "../html/adminhome.html";
       break;
+    }
+    else{
+      alert("Wrong credentials!")
     }
   }
 }

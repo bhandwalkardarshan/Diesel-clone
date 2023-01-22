@@ -6,7 +6,7 @@
       "author": "typicode"
     }
   ],
-  "mensData": [
+  "mensData":[
     {
       "title": "S-JESS REGULAR FIT MEN MULTI SHIRT",
       "catagory": "shirt",
@@ -15,14 +15,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410291484002/665/410291484002_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410291484002/665/410291484002_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291484002/665/410291484002_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291484002/665/410291484002_4.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291484002/665/410291484002_5.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410291484002/665/410291484002_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291484002/665/410291484002_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291484002/665/410291484002_4.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291484002/665/410291484002_5.jpg?compress=true&q=70"
       ],
       "id": 1
-    },
-    {
+      },
+      {
       "title": "T-DIEGOR SLIM FIT MEN YELLOW T-SHIRT",
       "catagory": "shirt",
       "price": "1999.00",
@@ -30,14 +30,14 @@
       "color": "yellow",
       "image": "https://diesel.gumlet.io/product/410315193004/665/410315193004_1_6442.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315193004/665/410315193004_1_6442.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315193004/665/410315193004_3_2310.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315193004/665/410315193004_4_8472.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315193004/665/410315193004_5_6519.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315193004/665/410315193004_1_6442.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315193004/665/410315193004_3_2310.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315193004/665/410315193004_4_8472.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315193004/665/410315193004_5_6519.webp?compress=true&q=70"
       ],
       "id": 2
-    },
-    {
+      },
+      {
       "title": "T-DIEGOR-K52 SLIM MEN RED T-SHIRT",
       "catagory": "shirt",
       "price": "1599.00",
@@ -45,14 +45,14 @@
       "color": "red",
       "image": "https://diesel.gumlet.io/product/410345087010/665/410345087010_1_4469.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345087010/665/410345087010_1_4469.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345087010/665/410345087010_2_6523.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345087010/665/410345087010_3_3112.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345087010/665/410345087010_4_3894.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345087010/665/410345087010_1_4469.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345087010/665/410345087010_2_6523.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345087010/665/410345087010_3_3112.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345087010/665/410345087010_4_3894.webp?compress=true&q=70"
       ],
       "id": 3
-    },
-    {
+      },
+      {
       "title": "T-DIEGOS SLIM FIT MEN BLUE T-SHIRT",
       "catagory": "shirt",
       "price": "1699.00",
@@ -60,14 +60,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410291631004/665/410291631004_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410291631004/665/410291631004_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291631004/665/410291631004_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291631004/665/410291631004_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291631004/665/410291631004_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410291631004/665/410291631004_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291631004/665/410291631004_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291631004/665/410291631004_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291631004/665/410291631004_4.jpg?compress=true&q=70"
       ],
       "id": 4
-    },
-    {
+      },
+      {
       "title": "T-JUST-K2 REGULAR FIT MEN BLUE T-SHIRT",
       "catagory": "shirt",
       "price": "499.00",
@@ -75,14 +75,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410345084008/665/410345084008_1_2492.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345084008/665/410345084008_1_2492.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345084008/665/410345084008_2_1210.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345084008/665/410345084008_3_5710.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345084008/665/410345084008_4_3765.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345084008/665/410345084008_1_2492.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345084008/665/410345084008_2_1210.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345084008/665/410345084008_3_5710.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345084008/665/410345084008_4_3765.webp?compress=true&q=70"
       ],
       "id": 5
-    },
-    {
+      },
+      {
       "title": "J-AKINATOR REGULAR FIT MEN ORANGE JACKET",
       "catagory": "jacket",
       "price": "7999.00",
@@ -90,14 +90,14 @@
       "color": "orange",
       "image": "https://diesel.gumlet.io/product/410240083006/665/410240083005_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410240083006/665/410240083005_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410240083006/665/410240083005_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410240083006/665/410240083005_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410240083006/665/410240083005_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410240083006/665/410240083005_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410240083006/665/410240083005_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410240083006/665/410240083005_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410240083006/665/410240083005_4.jpg?compress=true&q=70"
       ],
       "id": 6
-    },
-    {
+      },
+      {
       "title": "J-SAM REGULAR FIT MEN BLUE JACKET",
       "catagory": "jacket",
       "price": "1599.00",
@@ -105,14 +105,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410291538002/665/410291538002_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410291538002/665/410291538002_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291538002/665/410291538002_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291538002/665/410291538002_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291538002/665/410291538002_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410291538002/665/410291538002_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291538002/665/410291538002_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291538002/665/410291538002_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291538002/665/410291538002_4.jpg?compress=true&q=70"
       ],
       "id": 7
-    },
-    {
+      },
+      {
       "title": "K-JERSEY REGULAR FIT MEN GREEN KNITWEAR",
       "catagory": "shirt",
       "price": "5999.00",
@@ -120,14 +120,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410291531002/665/410291531002_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410291531002/665/410291531002_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291531002/665/410291531002_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291531002/665/410291531002_4.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291531002/665/410291531002_5.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410291531002/665/410291531002_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291531002/665/410291531002_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291531002/665/410291531002_4.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291531002/665/410291531002_5.jpg?compress=true&q=70"
       ],
       "id": 8
-    },
-    {
+      },
+      {
       "title": "P-CALTONY REGULAR FIT MEN YELLOW PANTS",
       "catagory": "pants",
       "price": "2999.00",
@@ -135,14 +135,14 @@
       "color": "yellow",
       "image": "https://diesel.gumlet.io/product/410291716001/665/410291716003_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410291716001/665/410291716003_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291716001/665/410291716003_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291716001/665/410291716003_4.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291716001/665/410291716003_5.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410291716001/665/410291716003_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291716001/665/410291716003_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291716001/665/410291716003_4.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291716001/665/410291716003_5.jpg?compress=true&q=70"
       ],
       "id": 9
-    },
-    {
+      },
+      {
       "title": "P-CHROMY REGULAR FIT MEN BLUE PANTS",
       "catagory": "pants",
       "price": "3999.00",
@@ -150,14 +150,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410291529002/665/410291529002_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410291529002/665/410291529002_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291529002/665/410291529002_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291529002/665/410291529002_4.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291529002/665/410291529002_5.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410291529002/665/410291529002_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291529002/665/410291529002_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291529002/665/410291529002_4.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291529002/665/410291529002_5.jpg?compress=true&q=70"
       ],
       "id": 10
-    },
-    {
+      },
+      {
       "title": "P-PHILLIPE REGULAR FIT MEN BLACK PANTS",
       "catagory": "pants",
       "price": "2999.00",
@@ -165,14 +165,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410291439014/665/410291439014_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410291439014/665/410291439014_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291439014/665/410291439014_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291439014/665/410291439014_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291439014/665/410291439014_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410291439014/665/410291439014_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291439014/665/410291439014_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291439014/665/410291439014_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291439014/665/410291439014_4.jpg?compress=true&q=70"
       ],
       "id": 11
-    },
-    {
+      },
+      {
       "title": "D-LILLO SKINNY FIT MEN BLACK JACKET",
       "catagory": "jacket",
       "price": "4499.00",
@@ -180,14 +180,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410315240004/665/410315240004_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315240004/665/410315240004_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315240004/665/410315240004_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315240004/665/410315240004_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315240004/665/410315240004_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315240004/665/410315240004_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315240004/665/410315240004_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315240004/665/410315240004_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315240004/665/410315240004_4.jpg?compress=true&q=70"
       ],
       "id": 12
-    },
-    {
+      },
+      {
       "title": "D-LILLO SLIM FIT MEN BLUE JACKET",
       "catagory": "jacket",
       "price": "1299.00",
@@ -195,14 +195,14 @@
       "color": "white",
       "image": "https://diesel.gumlet.io/product/410315232004/665/410315232004_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315232004/665/410315232004_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315232004/665/410315232004_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315232004/665/410315232004_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315232004/665/410315232004_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315232004/665/410315232004_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315232004/665/410315232004_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315232004/665/410315232004_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315232004/665/410315232004_4.jpg?compress=true&q=70"
       ],
       "id": 13
-    },
-    {
+      },
+      {
       "title": "S-BEN-CL REGULAR MEN WHITE SHIRT",
       "catagory": "shirt",
       "price": "2699.00",
@@ -210,14 +210,14 @@
       "color": "white",
       "image": "https://diesel.gumlet.io/product/410315103010/665/410315103008_1_2318.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315103010/665/410315103008_1_2318.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315103010/665/410315103008_2_8924.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315103010/665/410315103008_3_5366.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315103010/665/410315103008_4_6431.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315103010/665/410315103008_1_2318.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315103010/665/410315103008_2_8924.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315103010/665/410315103008_3_5366.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315103010/665/410315103008_4_6431.webp?compress=true&q=70"
       ],
       "id": 14
-    },
-    {
+      },
+      {
       "title": "T-SMITH-D SLIM FIT MEN WHITE POLO",
       "catagory": "shirt",
       "price": "1499.00",
@@ -225,14 +225,14 @@
       "color": "white",
       "image": "https://diesel.gumlet.io/product/410315144015/665/410315144013_1_2047.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315144015/665/410315144013_1_2047.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315144015/665/410315144013_2_9580.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315144015/665/410315144013_3_4823.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315144015/665/410315144013_4_9209.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315144015/665/410315144013_1_2047.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315144015/665/410315144013_2_9580.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315144015/665/410315144013_3_4823.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315144015/665/410315144013_4_9209.webp?compress=true&q=70"
       ],
       "id": 15
-    },
-    {
+      },
+      {
       "title": "P-TARY-IND REGULAR MEN BLUE PANTS",
       "catagory": "pants",
       "price": "1699.00",
@@ -240,14 +240,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410315492007/665/410315492007_1_8108.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315492007/665/410315492007_1_8108.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315492007/665/410315492007_2_4896.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315492007/665/410315492007_3_3716.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315492007/665/410315492007_4_2047.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315492007/665/410315492007_1_8108.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315492007/665/410315492007_2_4896.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315492007/665/410315492007_3_3716.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315492007/665/410315492007_4_2047.webp?compress=true&q=70"
       ],
       "id": 16
-    },
-    {
+      },
+      {
       "title": "P-TARY REGULAR FIT MEN BLUE PANT",
       "catagory": "pants",
       "price": "2699.00",
@@ -255,14 +255,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410315100005/665/410315100005_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315100005/665/410315100005_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315100005/665/410315100005_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315100005/665/410315100005_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315100005/665/410315100005_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315100005/665/410315100005_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315100005/665/410315100005_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315100005/665/410315100005_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315100005/665/410315100005_4.jpg?compress=true&q=70"
       ],
       "id": 17
-    },
-    {
+      },
+      {
       "title": "P-TARY REGULAR FIT MEN GREY PANT",
       "catagory": "pants",
       "price": "1899.00",
@@ -270,14 +270,14 @@
       "color": "grey",
       "image": "https://diesel.gumlet.io/product/410315492005/665/410315492005_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315492005/665/410315492005_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315492005/665/410315492005_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315492005/665/410315492005_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315492005/665/410315492005_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315492005/665/410315492005_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315492005/665/410315492005_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315492005/665/410315492005_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315492005/665/410315492005_4.jpg?compress=true&q=70"
       ],
       "id": 18
-    },
-    {
+      },
+      {
       "title": "P-TARY-DIV REGULAR MEN BLACK PANTS",
       "catagory": "pants",
       "price": "3499.00",
@@ -285,14 +285,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410315100007/665/410315100007_5_3285.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315100007/665/410315100007_5_3285.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315100007/665/410315100007_3_6076.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315100007/665/410315100007_1_1111.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315100007/665/410315100007_2_8696.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315100007/665/410315100007_5_3285.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315100007/665/410315100007_3_6076.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315100007/665/410315100007_1_1111.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315100007/665/410315100007_2_8696.webp?compress=true&q=70"
       ],
       "id": 19
-    },
-    {
+      },
+      {
       "title": "S-GINN-HOOD-ZIP-K6 REGULAR FIT MEN BLUE JACKET",
       "catagory": "jacket",
       "price": "2299.00",
@@ -300,14 +300,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410345082002/665/410345082002_1_1312.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345082002/665/410345082002_1_1312.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345082002/665/410345082002_2_2156.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345082002/665/410345082002_3_5715.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345082002/665/410345082002_4_5771.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345082002/665/410345082002_1_1312.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345082002/665/410345082002_2_2156.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345082002/665/410345082002_3_5715.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345082002/665/410345082002_4_5771.webp?compress=true&q=70"
       ],
       "id": 20
-    },
-    {
+      },
+      {
       "title": "S-UMBE-CHECK-NW REGULAR MEN MULTICOLOR SHIRT",
       "catagory": "shirt",
       "price": "2799.00",
@@ -315,14 +315,14 @@
       "color": "wh",
       "image": "https://diesel.gumlet.io/product/410345018007/665/410345018007_1_9198.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345018007/665/410345018007_1_9198.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345018007/665/410345018007_2_8266.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345018007/665/410345018007_3_3010.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345018007/665/410345018007_4_2196.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345018007/665/410345018007_1_9198.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345018007/665/410345018007_2_8266.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345018007/665/410345018007_3_3010.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345018007/665/410345018007_4_2196.webp?compress=true&q=70"
       ],
       "id": 21
-    },
-    {
+      },
+      {
       "title": "T-JUST-K2 REGULAR MEN BLACK T-SHIRT",
       "catagory": "shirt",
       "price": "1699.00",
@@ -330,14 +330,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410345084005/665/410345084002_1_2372.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345084005/665/410345084002_1_2372.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345084005/665/410345084002_2_8466.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345084005/665/410345084002_3_3828.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345084005/665/410345084002_4_3258.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345084005/665/410345084002_1_2372.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345084005/665/410345084002_2_8466.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345084005/665/410345084002_3_3828.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345084005/665/410345084002_4_3258.webp?compress=true&q=70"
       ],
       "id": 22
-    },
-    {
+      },
+      {
       "title": "T-JUST-E36 REGULAR MEN BLUE T-SHIRT",
       "catagory": "shirt",
       "price": "1499.00",
@@ -345,14 +345,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410345176001/665/410345176001_1_7222.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345176001/665/410345176001_1_7222.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345176001/665/410345176001_2_5731.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345176001/665/410345176001_3_7424.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345176001/665/410345176001_4_6749.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345176001/665/410345176001_1_7222.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345176001/665/410345176001_2_5731.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345176001/665/410345176001_3_7424.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345176001/665/410345176001_4_6749.webp?compress=true&q=70"
       ],
       "id": 23
-    },
-    {
+      },
+      {
       "title": "T-DIEGOR-DIV SLIM MEN RED T-SHIRT",
       "catagory": "shirt",
       "price": "1799.00",
@@ -360,14 +360,14 @@
       "color": "red",
       "image": "https://diesel.gumlet.io/product/410315121013/665/410315121013_1_3398.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315121013/665/410315121013_1_3398.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315121013/665/410315121013_2_3731.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315121013/665/410315121013_3_2904.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315121013/665/410315121013_4_4742.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315121013/665/410315121013_1_3398.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315121013/665/410315121013_2_3731.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315121013/665/410315121013_3_2904.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315121013/665/410315121013_4_4742.webp?compress=true&q=70"
       ],
       "id": 24
-    },
-    {
+      },
+      {
       "title": "P-ZAMPOCK REGULAR MEN BROWN PANTS",
       "catagory": "pants",
       "price": "2199.00",
@@ -375,14 +375,14 @@
       "color": "brown",
       "image": "https://diesel.gumlet.io/product/410315408007/665/410315408007_1_6644.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315408007/665/410315408007_1_6644.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315408007/665/410315408007_2_1612.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315408007/665/410315408007_3_7980.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315408007/665/410315408007_4_6662.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315408007/665/410315408007_1_6644.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315408007/665/410315408007_2_1612.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315408007/665/410315408007_3_7980.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315408007/665/410315408007_4_6662.webp?compress=true&q=70"
       ],
       "id": 25
-    },
-    {
+      },
+      {
       "title": "P-CORDY REGULAR MEN PINK PANTS",
       "catagory": "pants",
       "price": "2299.00",
@@ -390,14 +390,14 @@
       "color": "red",
       "image": "https://diesel.gumlet.io/product/410345291005/665/410345291005_1_7120.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345291005/665/410345291005_1_7120.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345291005/665/410345291005_2_3640.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345291005/665/410345291005_3_6753.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345291005/665/410345291005_4_8609.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345291005/665/410345291005_1_7120.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345291005/665/410345291005_2_3640.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345291005/665/410345291005_3_6753.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345291005/665/410345291005_4_8609.webp?compress=true&q=70"
       ],
       "id": 26
-    },
-    {
+      },
+      {
       "title": "T-DIEGO SLIM FIT MEN GREEN T-SHIRT",
       "catagory": "shirt",
       "price": "1399.00",
@@ -405,14 +405,14 @@
       "color": "green",
       "image": "https://diesel.gumlet.io/product/410315125005/665/410315125005_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315125005/665/410315125005_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315125005/665/410315125005_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315125005/665/410315125005_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315125005/665/410315125005_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315125005/665/410315125005_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315125005/665/410315125005_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315125005/665/410315125005_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315125005/665/410315125005_4.jpg?compress=true&q=70"
       ],
       "id": 27
-    },
-    {
+      },
+      {
       "title": "T-DIEGOR-D REGULAR FIT MEN GREEN T-SHIRT",
       "catagory": "shirt",
       "price": "1299.00",
@@ -420,14 +420,14 @@
       "color": "green",
       "image": "https://diesel.gumlet.io/product/410315125007/665/410315125007_1_8947.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315125007/665/410315125007_1_8947.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315125007/665/410315125007_2_4179.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315125007/665/410315125007_4_3038.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315125007/665/410315125007_5_8526.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315125007/665/410315125007_1_8947.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315125007/665/410315125007_2_4179.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315125007/665/410315125007_4_3038.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315125007/665/410315125007_5_8526.webp?compress=true&q=70"
       ],
       "id": 28
-    },
-    {
+      },
+      {
       "title": "S-TRAILER REGULAR MEN MULTICOLOR SWEATER",
       "catagory": "sweater",
       "price": "3999.00",
@@ -435,14 +435,14 @@
       "color": "brown",
       "image": "https://diesel.gumlet.io/product/410345091002/665/410345091002_1_3200.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345091002/665/410345091002_1_3200.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345091002/665/410345091002_2_2447.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345091002/665/410345091002_3_6841.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345091002/665/410345091002_4_7788.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345091002/665/410345091002_1_3200.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345091002/665/410345091002_2_2447.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345091002/665/410345091002_3_6841.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345091002/665/410345091002_4_7788.webp?compress=true&q=70"
       ],
       "id": 29
-    },
-    {
+      },
+      {
       "title": "J-WALLY REGULAR MEN RED JACKET",
       "catagory": "jacket",
       "price": "4199.00",
@@ -450,13 +450,13 @@
       "color": "red",
       "image": "https://diesel.gumlet.io/product/410345261006/665/410345261006_1_2966.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345261006/665/410345261006_1_2966.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345261006/665/410345261006_2_6371.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345261006/665/410345261006_3_9799.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345261006/665/410345261006_4_9664.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345261006/665/410345261006_1_2966.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345261006/665/410345261006_2_6371.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345261006/665/410345261006_3_9799.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345261006/665/410345261006_4_9664.webp?compress=true&q=70"
       ],
       "id": 30
-    }
+      }
   ],
   "womenData": [
     {
@@ -467,7 +467,7 @@
       "orgprice": "19999.00",
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410345213007/665/410345213007_1_2719.webp?compress=true&q=70",
-      "additionalImg": [
+      "additionalImg":[
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
@@ -482,7 +482,7 @@
       "orgprice": "17999.00",
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410345215006/665/410345215006_1_9715.webp?compress=true&q=70",
-      "additionalImg": [
+      "additionalImg":[
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
@@ -497,7 +497,7 @@
       "orgprice": "19999.00",
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410345215006/665/410345215006_1_9715.webp?compress=true&q=70",
-      "additionalImg": [
+      "additionalImg":[
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
@@ -511,7 +511,7 @@
       "orgprice": "19999.00",
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410345215006/665/410345215006_1_9715.webp?compress=true&q=70",
-      "additionalImg": [
+      "additionalImg":[
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
@@ -526,7 +526,7 @@
       "orgprice": "19999.00",
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410345215006/665/410345215006_1_9715.webp?compress=true&q=70",
-      "additionalImg": [
+      "additionalImg":[
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
@@ -541,7 +541,7 @@
       "orgprice": "19999.00",
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410345262007/665/410345262007_1_9805.webp?compress=true&q=70",
-      "additionalImg": [
+      "additionalImg":[
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
@@ -556,7 +556,7 @@
       "orgprice": "26999.00",
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410345273006/665/410345273006_1_6786.webp?compress=true&q=70",
-      "additionalImg": [
+      "additionalImg":[
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
@@ -571,7 +571,7 @@
       "orgprice": "32999.00",
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410345319006/665/410345319006_1_3802.webp?compress=true&q=70",
-      "additionalImg": [
+      "additionalImg":[
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
@@ -586,7 +586,7 @@
       "orgprice": "14990.00",
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410239941007/665/410239941007_1_5034.webp?compress=true&q=70",
-      "additionalImg": [
+      "additionalImg":[
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
@@ -602,14 +602,14 @@
       "color": "orange",
       "image": "https://diesel.gumlet.io/product/410256980001/665/410256980001_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410256980001/665/410256980001_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410256980001/665/410256980001_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410256980001/665/410256980001_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410256980001/665/410256980001_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410256980001/665/410256980001_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410256980001/665/410256980001_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410256980001/665/410256980001_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410256980001/665/410256980001_4.jpg?compress=true&q=70"
       ],
       "id": 1
-    },
-    {
+      },
+      {
       "title": "D-EASIEL REGULAR FIT WOMEN BLACK DRESS",
       "catagory": "dress",
       "price": "6499.00",
@@ -617,14 +617,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410279462002/665/410279462001_4.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410279462002/665/410279462001_4.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410279462002/665/410279462001_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410279462002/665/410279462001_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410279462002/665/410279462001_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410279462002/665/410279462001_4.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410279462002/665/410279462001_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410279462002/665/410279462001_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410279462002/665/410279462001_4.jpg?compress=true&q=70"
       ],
       "id": 2
-    },
-    {
+      },
+      {
       "title": "D-LARY REGULAR FIT WOMEN BLACK DRESS",
       "catagory": "dress",
       "price": "7995.00",
@@ -632,14 +632,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410243593005/665/410243593002_3.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410243593005/665/410243593002_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410243593005/665/410243593002_5.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410243593005/665/410243593002_6.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410243593005/665/410243593002_2.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410243593005/665/410243593002_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410243593005/665/410243593002_5.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410243593005/665/410243593002_6.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410243593005/665/410243593002_2.jpg?compress=true&q=70"
       ],
       "id": 3
-    },
-    {
+      },
+      {
       "title": "O-BOGGY LOOSE WOMEN GREEN SKIRT",
       "catagory": "dress",
       "price": "7495.00",
@@ -647,14 +647,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410128395005/665/410128395005_1_3828.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410128395005/665/410128395005_1_3828.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410128395005/665/410128395005_2_6518.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410128395005/665/410128395005_3_3994.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410128395005/665/410128395005_4_2799.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410128395005/665/410128395005_1_3828.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410128395005/665/410128395005_2_6518.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410128395005/665/410128395005_3_3994.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410128395005/665/410128395005_4_2799.webp?compress=true&q=70"
       ],
       "id": 4
-    },
-    {
+      },
+      {
       "title": "P-KOLL-F2 REGULAR WOMEN BLACK PANTS",
       "catagory": "pants",
       "price": "4999.00",
@@ -662,14 +662,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410345318002/665/410345318002_1_6467.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345318002/665/410345318002_1_6467.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345318002/665/410345318002_2_4405.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345318002/665/410345318002_3_6754.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345318002/665/410345318002_4_3223.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345318002/665/410345318002_1_6467.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345318002/665/410345318002_2_4405.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345318002/665/410345318002_3_6754.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345318002/665/410345318002_4_3223.webp?compress=true&q=70"
       ],
       "id": 5
-    },
-    {
+      },
+      {
       "title": "UFLB REGULAR FIT WOMEN BLACK PANTS",
       "catagory": "pants",
       "price": "5399.00",
@@ -677,14 +677,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410291617003/665/410291617001_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410291617003/665/410291617001_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291617003/665/410291617001_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291617003/665/410291617001_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291617003/665/410291617001_3.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410291617003/665/410291617001_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291617003/665/410291617001_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291617003/665/410291617001_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291617003/665/410291617001_3.jpg?compress=true&q=70"
       ],
       "id": 6
-    },
-    {
+      },
+      {
       "title": "T-SIELITO SLIM FIT WOMEN GREEN TOPS",
       "catagory": "dress",
       "price": "2599.00",
@@ -692,14 +692,14 @@
       "color": "yellow",
       "image": "https://diesel.gumlet.io/product/410315135001/665/410315135003_1_9768.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315135001/665/410315135003_1_9768.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315135001/665/410315135003_2_6659.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315135001/665/410315135003_3_7088.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315135001/665/410315135003_4_9950.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315135001/665/410315135003_1_9768.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315135001/665/410315135003_2_6659.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315135001/665/410315135003_3_7088.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315135001/665/410315135003_4_9950.webp?compress=true&q=70"
       ],
       "id": 7
-    },
-    {
+      },
+      {
       "title": "T-SLI SLIM FIT WOMEN WHITE T-SHIRT",
       "catagory": "shirt",
       "price": "3599.00",
@@ -707,14 +707,14 @@
       "color": "white",
       "image": "https://diesel.gumlet.io/product/410315153003/665/410315153003_1_1348.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315153003/665/410315153003_1_1348.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315153003/665/410315153003_2_6482.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315153003/665/410315153003_3_6931.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315153003/665/410315153003_4_3283.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315153003/665/410315153003_1_1348.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315153003/665/410315153003_2_6482.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315153003/665/410315153003_3_6931.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315153003/665/410315153003_4_3283.webp?compress=true&q=70"
       ],
       "id": 8
-    },
-    {
+      },
+      {
       "title": "T-REG-MICRODIV REGULAR WOMEN RED T-SHIRT",
       "catagory": "shirt",
       "price": "1299.00",
@@ -722,14 +722,14 @@
       "color": "red",
       "image": "https://diesel.gumlet.io/product/410345096007/665/410345096007_1_4336.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345096007/665/410345096007_1_4336.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345096007/665/410345096007_2_5335.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345096007/665/410345096007_3_6256.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345096007/665/410345096007_4_3269.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345096007/665/410345096007_1_4336.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345096007/665/410345096007_2_5335.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345096007/665/410345096007_3_6256.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345096007/665/410345096007_4_3269.webp?compress=true&q=70"
       ],
       "id": 9
-    },
-    {
+      },
+      {
       "title": "D-ANGIEL REGULAR FIT WOMEN BLACK DRESS",
       "catagory": "dress",
       "price": "3699.00",
@@ -737,14 +737,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410345104004/665/410345104001_1_2703.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345104004/665/410345104001_1_2703.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345104004/665/410345104001_2_9538.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345104004/665/410345104001_3_1145.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345104004/665/410345104001_4_5341.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345104004/665/410345104001_1_2703.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345104004/665/410345104001_2_9538.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345104004/665/410345104001_3_1145.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345104004/665/410345104001_4_5341.webp?compress=true&q=70"
       ],
       "id": 10
-    },
-    {
+      },
+      {
       "title": "C-GISEY-STR REGULAR FIT WOMEN PINK SHIRT",
       "catagory": "shirt",
       "price": "2599.00",
@@ -752,14 +752,14 @@
       "color": "pink",
       "image": "https://diesel.gumlet.io/product/410345065004/665/410345065001_1_5425.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345065004/665/410345065001_1_5425.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345065004/665/410345065001_2_7142.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345065004/665/410345065001_3_3497.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345065004/665/410345065001_4_3600.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345065004/665/410345065001_1_5425.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345065004/665/410345065001_2_7142.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345065004/665/410345065001_3_3497.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345065004/665/410345065001_4_3600.webp?compress=true&q=70"
       ],
       "id": 11
-    },
-    {
+      },
+      {
       "title": "T-SLI-IND SLIM WOMEN VIOLET T-SHIRT",
       "catagory": "shirt",
       "price": "1599.00",
@@ -767,14 +767,14 @@
       "color": "violet",
       "image": "https://diesel.gumlet.io/product/410315113007/665/410315113005_1_9777.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315113007/665/410315113005_1_9777.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315113007/665/410315113005_2_5387.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315113007/665/410315113005_3_6575.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315113007/665/410315113005_4_2558.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315113007/665/410315113005_1_9777.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315113007/665/410315113005_2_5387.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315113007/665/410315113005_3_6575.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315113007/665/410315113005_4_2558.webp?compress=true&q=70"
       ],
       "id": 12
-    },
-    {
+      },
+      {
       "title": "T-REG-MICRODIV REGULAR WOMEN BLACK T-SHIRT",
       "catagory": "shirt",
       "price": "1299.00",
@@ -782,14 +782,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410345096001/665/410345096001_1_8895.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345096001/665/410345096001_1_8895.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345096001/665/410345096001_2_4569.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345096001/665/410345096001_3_7479.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345096001/665/410345096001_4_2831.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345096001/665/410345096001_1_8895.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345096001/665/410345096001_2_4569.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345096001/665/410345096001_3_7479.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345096001/665/410345096001_4_2831.webp?compress=true&q=70"
       ],
       "id": 13
-    },
-    {
+      },
+      {
       "title": "G-SOJO COMFORT FIT WOMEN PURPLE JACKET",
       "catagory": "shirt",
       "price": "2599.00",
@@ -797,14 +797,14 @@
       "color": "violet",
       "image": "https://diesel.gumlet.io/product/410279601005/665/410279601005_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410279601005/665/410279601005_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410279601005/665/410279601005_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410279601005/665/410279601005_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410279601005/665/410279601005_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410279601005/665/410279601005_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410279601005/665/410279601005_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410279601005/665/410279601005_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410279601005/665/410279601005_4.jpg?compress=true&q=70"
       ],
       "id": 14
-    },
-    {
+      },
+      {
       "title": "C-SUNNY COMFORT FIT WOMEN WHITE SHIRT",
       "catagory": "shirt",
       "price": "1599.00",
@@ -812,14 +812,14 @@
       "color": "white",
       "image": "https://diesel.gumlet.io/product/410256978003/665/410256978001_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410256978003/665/410256978001_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410256978003/665/410256978001_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410256978003/665/410256978001_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410256978003/665/410256978001_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410256978003/665/410256978001_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410256978003/665/410256978001_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410256978003/665/410256978001_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410256978003/665/410256978001_4.jpg?compress=true&q=70"
       ],
       "id": 15
-    },
-    {
+      },
+      {
       "title": "T-KELLY REGULAR FIT WOMEN WHITE T-SHIRT",
       "catagory": "shirt",
       "price": "2995.00",
@@ -827,14 +827,14 @@
       "color": "white",
       "image": "https://diesel.gumlet.io/product/410243590003/665/410243590002_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410243590003/665/410243590002_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410243590003/665/410243590002_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410243590003/665/410243590002_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410243590003/665/410243590002_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410243590003/665/410243590002_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410243590003/665/410243590002_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410243590003/665/410243590002_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410243590003/665/410243590002_4.jpg?compress=true&q=70"
       ],
       "id": 16
-    },
-    {
+      },
+      {
       "title": "D-ANGY-HOOD-NE SLIM WOMEN RED DRESS",
       "catagory": "dress",
       "price": "1499.00",
@@ -842,14 +842,14 @@
       "color": "red",
       "image": "https://diesel.gumlet.io/product/410345198007/665/410345198005_1_3882.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345198007/665/410345198005_1_3882.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345198007/665/410345198005_2_4153.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345198007/665/410345198005_3_8739.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345198007/665/410345198005_4_6040.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345198007/665/410345198005_1_3882.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345198007/665/410345198005_2_4153.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345198007/665/410345198005_3_8739.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345198007/665/410345198005_4_6040.webp?compress=true&q=70"
       ],
       "id": 17
-    },
-    {
+      },
+      {
       "title": "T-DARIA REGULAR FIT WOMEN PINK T-SHIRT",
       "catagory": "shirt",
       "price": "2499.00",
@@ -857,14 +857,14 @@
       "color": "pink",
       "image": "https://diesel.gumlet.io/product/410291547003/665/410291547001_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410291547003/665/410291547001_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291547003/665/410291547001_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291547003/665/410291547001_4.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291547003/665/410291547001_5.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410291547003/665/410291547001_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291547003/665/410291547001_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291547003/665/410291547001_4.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291547003/665/410291547001_5.jpg?compress=true&q=70"
       ],
       "id": 18
-    },
-    {
+      },
+      {
       "title": "T-SLICUP REGULAR FIT WOMEN GREY T-SHIRT",
       "catagory": "shirt",
       "price": "3499.00",
@@ -872,14 +872,14 @@
       "color": "grey",
       "image": "https://diesel.gumlet.io/product/410291466005/665/410291466005_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410291466005/665/410291466005_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291466005/665/410291466005_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291466005/665/410291466005_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291466005/665/410291466005_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410291466005/665/410291466005_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291466005/665/410291466005_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291466005/665/410291466005_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291466005/665/410291466005_4.jpg?compress=true&q=70"
       ],
       "id": 19
-    },
-    {
+      },
+      {
       "title": "P-KOLL-F2 REGULAR WOMEN BROWN PANTS",
       "catagory": "pants",
       "price": "1299.00",
@@ -887,14 +887,14 @@
       "color": "brown",
       "image": "https://diesel.gumlet.io/product/410345318004/665/410345318004_1_5011.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345318004/665/410345318004_1_5011.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345318004/665/410345318004_2_2297.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345318004/665/410345318004_3_9166.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345318004/665/410345318004_4_8010.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345318004/665/410345318004_1_5011.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345318004/665/410345318004_2_2297.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345318004/665/410345318004_3_9166.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345318004/665/410345318004_4_8010.webp?compress=true&q=70"
       ],
       "id": 20
-    },
-    {
+      },
+      {
       "title": "T-CLAU-F2 SLIM WOMEN BROWN TOP",
       "catagory": "dress",
       "price": "2599.00",
@@ -902,14 +902,14 @@
       "color": "brown",
       "image": "https://diesel.gumlet.io/product/410345317004/665/410345317004_1_2602.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345317004/665/410345317004_1_2602.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345317004/665/410345317004_2_6108.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345317004/665/410345317004_3_6065.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345317004/665/410345317004_4_1995.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345317004/665/410345317004_1_2602.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345317004/665/410345317004_2_6108.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345317004/665/410345317004_3_6065.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345317004/665/410345317004_4_1995.webp?compress=true&q=70"
       ],
       "id": 21
-    },
-    {
+      },
+      {
       "title": "C-GARZ RELAXED WOMEN GREEN SHIRT",
       "catagory": "shirt",
       "price": "4599.00",
@@ -917,14 +917,14 @@
       "color": "green",
       "image": "https://diesel.gumlet.io/product/410128396005/665/410128396005_1_3757.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410128396005/665/410128396005_1_3757.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410128396005/665/410128396005_2_9547.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410128396005/665/410128396005_3_2017.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410128396005/665/410128396005_4_4564.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410128396005/665/410128396005_1_3757.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410128396005/665/410128396005_2_9547.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410128396005/665/410128396005_3_2017.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410128396005/665/410128396005_4_4564.webp?compress=true&q=70"
       ],
       "id": 22
-    },
-    {
+      },
+      {
       "title": "P-ZAMMY-MON REGULAR WOMEN WHITE PANTS",
       "catagory": "pants",
       "price": "799.00",
@@ -932,14 +932,14 @@
       "color": "white",
       "image": "https://diesel.gumlet.io/product/410345297004/665/410345297001_1_9480.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345297004/665/410345297001_1_9480.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345297004/665/410345297001_2_9092.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345297004/665/410345297001_3_9997.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345297004/665/410345297001_4_2342.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345297004/665/410345297001_1_9480.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345297004/665/410345297001_2_9092.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345297004/665/410345297001_3_9997.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345297004/665/410345297001_4_2342.webp?compress=true&q=70"
       ],
       "id": 23
-    },
-    {
+      },
+      {
       "title": "DE-PLATA REGULAR FIT WOMEN BLUE PANTS",
       "catagory": "pants",
       "price": "1299.00",
@@ -947,14 +947,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410256990003/665/410256990001_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410256990003/665/410256990001_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410256990003/665/410256990001_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410256990003/665/410256990001_5.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410256990003/665/410256990001_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410256990003/665/410256990001_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410256990003/665/410256990001_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410256990003/665/410256990001_5.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410256990003/665/410256990001_4.jpg?compress=true&q=70"
       ],
       "id": 24
-    },
-    {
+      },
+      {
       "title": "AWSB-RUE-HT02 REGULAR PINK PANTS",
       "catagory": "pants",
       "price": "1699.00",
@@ -962,14 +962,14 @@
       "color": "pink",
       "image": "https://diesel.gumlet.io/product/410372678001/665/410372678001_1_2275.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410372678001/665/410372678001_1_2275.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410372678001/665/410372678001_5_7188.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410372678001/665/410372678001_3_7505.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410372678001/665/410372678001_4_5922.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410372678001/665/410372678001_1_2275.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410372678001/665/410372678001_5_7188.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410372678001/665/410372678001_3_7505.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410372678001/665/410372678001_4_5922.webp?compress=true&q=70"
       ],
       "id": 25
-    },
-    {
+      },
+      {
       "title": "DE-HIGWEI REGULAR FIT WOMEN BLACK SHORT PANT",
       "catagory": "pants",
       "price": "2399.00",
@@ -977,14 +977,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410243692003/665/410243692002_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410243692003/665/410243692002_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410243692003/665/410243692002_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410243692003/665/410243692002_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410243692003/665/410243692002_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410243692003/665/410243692002_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410243692003/665/410243692002_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410243692003/665/410243692002_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410243692003/665/410243692002_4.jpg?compress=true&q=70"
       ],
       "id": 26
-    },
-    {
+      },
+      {
       "title": "DE-GINNY BOOTCUT FIT WOMEN BLUE SHORT PANT",
       "catagory": "pants",
       "price": "1299.00",
@@ -992,14 +992,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410315295007/665/410315295007_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315295007/665/410315295007_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315295007/665/410315295007_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315295007/665/410315295007_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315295007/665/410315295007_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315295007/665/410315295007_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315295007/665/410315295007_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315295007/665/410315295007_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315295007/665/410315295007_4.jpg?compress=true&q=70"
       ],
       "id": 27
-    },
-    {
+      },
+      {
       "title": "P-JORGE REGULAR FIT WOMEN WHITE PANTS",
       "catagory": "pants",
       "price": "3699.00",
@@ -1007,14 +1007,14 @@
       "color": "white",
       "image": "https://diesel.gumlet.io/product/410257024005/665/410257024004_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410257024005/665/410257024004_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410257024005/665/410257024004_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410257024005/665/410257024004_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410257024005/665/410257024004_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410257024005/665/410257024004_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410257024005/665/410257024004_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410257024005/665/410257024004_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410257024005/665/410257024004_4.jpg?compress=true&q=70"
       ],
       "id": 28
-    },
-    {
+      },
+      {
       "title": "AWSB-YELENAX-RW43 REGULAR WOMAN PURPLE PANTS",
       "catagory": "pants",
       "price": "3699.00",
@@ -1022,14 +1022,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410345330004/665/410345330004_1_2140.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345330004/665/410345330004_1_2140.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345330004/665/410345330004_2_8853.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345330004/665/410345330004_3_6689.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345330004/665/410345330004_4_2969.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345330004/665/410345330004_1_2140.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345330004/665/410345330004_2_8853.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345330004/665/410345330004_3_6689.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345330004/665/410345330004_4_2969.webp?compress=true&q=70"
       ],
       "id": 29
-    },
-    {
+      },
+      {
       "title": "AWSB-GAMLEY-WT23 REGULAR WOMAN BLACK PANTS",
       "catagory": "pants",
       "price": "2199.00",
@@ -1037,14 +1037,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410345062004/665/410345062004_1_2943.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345062004/665/410345062004_1_2943.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345062004/665/410345062004_2_5088.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345062004/665/410345062004_3_7201.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345062004/665/410345062004_4_4292.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345062004/665/410345062004_1_2943.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345062004/665/410345062004_2_5088.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345062004/665/410345062004_3_7201.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345062004/665/410345062004_4_4292.webp?compress=true&q=70"
       ],
       "id": 30
-    },
-    {
+      },
+      {
       "title": "P-LOGAN-A REGULAR FIT WOMEN BLACK PANTS",
       "catagory": "pants",
       "price": "1299.00",
@@ -1052,14 +1052,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410081808002/665/410081808002_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410081808002/665/410081808002_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410081808002/665/410081808002_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410081808002/665/410081808002_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410081808002/665/410081808002_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410081808002/665/410081808002_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410081808002/665/410081808002_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410081808002/665/410081808002_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410081808002/665/410081808002_4.jpg?compress=true&q=70"
       ],
       "id": 40
-    },
-    {
+      },
+      {
       "title": "Serendipity Women Grey Sneakers",
       "catagory": "shoes",
       "price": "1299.00",
@@ -1067,14 +1067,14 @@
       "color": "grey",
       "image": "https://diesel.gumlet.io/product/410291797005/665/410291797005_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410291797005/665/410291797005_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410081808002/665/410081808002_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410081808002/665/410081808002_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410081808002/665/410081808002_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410291797005/665/410291797005_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410081808002/665/410081808002_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410081808002/665/410081808002_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410081808002/665/410081808002_4.jpg?compress=true&q=70"
       ],
       "id": 41
-    },
-    {
+      },
+      {
       "title": "Mayemi Sa-Mayemi D W Sandals",
       "catagory": "shoes",
       "price": "4299.00",
@@ -1082,14 +1082,14 @@
       "color": "pink",
       "image": "https://diesel.gumlet.io/product/410315404014/665/410315404013_1_3784.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315404014/665/410315404013_1_3784.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315404014/665/410315404013_2_2154.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315404014/665/410315404013_3_3825.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315404014/665/410315404013_4_5312.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315404014/665/410315404013_1_3784.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315404014/665/410315404013_2_2154.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315404014/665/410315404013_3_3825.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315404014/665/410315404013_4_5312.webp?compress=true&q=70"
       ],
       "id": 42
-    },
-    {
+      },
+      {
       "title": "Mayemi Women Pink Sandals",
       "catagory": "shoes",
       "price": "3299.00",
@@ -1097,14 +1097,14 @@
       "color": "pink",
       "image": "https://diesel.gumlet.io/product/410315347007/665/410315347007_1_6544.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315347007/665/410315347007_1_6544.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315347007/665/410315347007_2_6981.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315347007/665/410315347007_3_6470.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315347007/665/410315347007_6_6936.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315347007/665/410315347007_1_6544.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315347007/665/410315347007_2_6981.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315347007/665/410315347007_3_6470.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315347007/665/410315347007_6_6936.webp?compress=true&q=70"
       ],
       "id": 43
-    },
-    {
+      },
+      {
       "title": "S-Serendipity Women Purple Sneakers",
       "catagory": "shoes",
       "price": "13299.00",
@@ -1112,14 +1112,14 @@
       "color": "purple",
       "image": "https://diesel.gumlet.io/product/410291548008/665/410291548006_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410291548008/665/410291548006_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291548008/665/410291548006_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291548008/665/410291548006_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291548008/665/410291548006_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410291548008/665/410291548006_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291548008/665/410291548006_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291548008/665/410291548006_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291548008/665/410291548006_4.jpg?compress=true&q=70"
       ],
       "id": 44
-    },
-    {
+      },
+      {
       "title": "T-VAZER Slim Women Grey Top",
       "catagory": "tops",
       "price": "13299.00",
@@ -1127,14 +1127,14 @@
       "color": "white",
       "image": "https://diesel.gumlet.io/product/410345284008/665/410345284008_1_2464.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345284008/665/410345284008_1_2464.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345284008/665/410345284008_3_7559.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345284008/665/410345284008_5_4766.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345284008/665/410345284008_6_8705.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345284008/665/410345284008_1_2464.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345284008/665/410345284008_3_7559.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345284008/665/410345284008_5_4766.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345284008/665/410345284008_6_8705.webp?compress=true&q=70"
       ],
       "id": 45
-    },
-    {
+      },
+      {
       "title": "D-Gellert Slim Fit Women Blue Tops",
       "catagory": "tops",
       "price": "13299.00",
@@ -1142,14 +1142,14 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410315315003/665/410315315004_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315315003/665/410315315004_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315315003/665/410315315004_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315315003/665/410315315004_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315315003/665/410315315004_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315315003/665/410315315004_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315315003/665/410315315004_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315315003/665/410315315004_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315315003/665/410315315004_4.jpg?compress=true&q=70"
       ],
       "id": 46
-    },
-    {
+      },
+      {
       "title": "T-RIBYELLE Slim Women Orange Top",
       "catagory": "tops",
       "price": "13299.00",
@@ -1157,14 +1157,14 @@
       "color": "orange",
       "image": "https://diesel.gumlet.io/product/410345053004/665/410345053001_1_7142.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345053004/665/410345053001_1_7142.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345053004/665/410345053001_2_4038.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345053004/665/410345053001_3_2666.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345053004/665/410345053001_4_4007.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345053004/665/410345053001_1_7142.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345053004/665/410345053001_2_4038.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345053004/665/410345053001_3_2666.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345053004/665/410345053001_4_4007.webp?compress=true&q=70"
       ],
       "id": 47
-    },
-    {
+      },
+      {
       "title": "T-RIB Slim Women Black Top",
       "catagory": "tops",
       "price": "1299.00",
@@ -1172,14 +1172,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410345283004/665/410345283004_1_9185.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345283004/665/410345283004_1_9185.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345283004/665/410345283004_2_9432.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345283004/665/410345283004_3_2775.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345283004/665/410345283004_4_3988.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345283004/665/410345283004_1_9185.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345283004/665/410345283004_2_9432.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345283004/665/410345283004_3_2775.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345283004/665/410345283004_4_3988.webp?compress=true&q=70"
       ],
       "id": 48
-    },
-    {
+      },
+      {
       "title": "T-Leslee Slim Fit Women Black Tops",
       "catagory": "tops",
       "price": "1299.00",
@@ -1187,14 +1187,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410257016003/665/410257016001_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410257016003/665/410257016001_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410257016003/665/410257016001_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410257016003/665/410257016001_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410257016003/665/410257016001_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410257016003/665/410257016001_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410257016003/665/410257016001_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410257016003/665/410257016001_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410257016003/665/410257016001_4.jpg?compress=true&q=70"
       ],
       "id": 49
-    },
-    {
+      },
+      {
       "title": "CAMILLE Women Red Wallet",
       "catagory": "wallet",
       "price": "1099.00",
@@ -1202,14 +1202,14 @@
       "color": "red",
       "image": "https://diesel.gumlet.io/product/410345132001/665/410345132001_1_4287.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345132001/665/410345132001_1_4287.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345132001/665/410345132001_2_8788.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345132001/665/410345132001_3_1433.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345132001/665/410345132001_4_1506.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345132001/665/410345132001_1_4287.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345132001/665/410345132001_2_8788.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345132001/665/410345132001_3_1433.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345132001/665/410345132001_4_1506.webp?compress=true&q=70"
       ],
       "id": 50
-    },
-    {
+      },
+      {
       "title": "Denimface Women Blue Wallet",
       "catagory": "wallet",
       "price": "199.00",
@@ -1217,14 +1217,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410291513001/665/410291513001_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410291513001/665/410291513001_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291513001/665/410291513001_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291513001/665/410291513001_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410291513001/665/410291513001_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410291513001/665/410291513001_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291513001/665/410291513001_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291513001/665/410291513001_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410291513001/665/410291513001_4.jpg?compress=true&q=70"
       ],
       "id": 51
-    },
-    {
+      },
+      {
       "title": "GARNET Women Violet Wallet",
       "catagory": "wallet",
       "price": "1099.00",
@@ -1232,14 +1232,14 @@
       "color": "violet",
       "image": "https://diesel.gumlet.io/product/410345142001/665/410345142001_1_3835.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345142001/665/410345142001_1_3835.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345142001/665/410345142001_2_2490.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345142001/665/410345142001_3_9447.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345142001/665/410345142001_4_7009.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345142001/665/410345142001_1_3835.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345142001/665/410345142001_2_2490.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345142001/665/410345142001_3_9447.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345142001/665/410345142001_4_7009.webp?compress=true&q=70"
       ],
       "id": 52
-    },
-    {
+      },
+      {
       "title": "1dr Women Red Wallet",
       "catagory": "wallet",
       "price": "1099.00",
@@ -1247,14 +1247,14 @@
       "color": "red",
       "image": "https://diesel.gumlet.io/product/410315244001/665/410315244001_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315244001/665/410315244001_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315244001/665/410315244001_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315244001/665/410315244001_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315244001/665/410315244001_2.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315244001/665/410315244001_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315244001/665/410315244001_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315244001/665/410315244001_2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315244001/665/410315244001_2.jpg?compress=true&q=70"
       ],
       "id": 53
-    },
-    {
+      },
+      {
       "title": "CRUST-M X Women Black Handbag",
       "catagory": "bags",
       "price": "1099.00",
@@ -1262,14 +1262,14 @@
       "color": "black",
       "image": "https://diesel.gumlet.io/product/410345128001/665/X08748_P0859_T8013-1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345128001/665/X08748_P0859_T8013-1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345128001/665/X08748_P0859_T8013-2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345128001/665/X08748_P0859_T8013-3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345128001/665/X08748_P0859_T8013-4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345128001/665/X08748_P0859_T8013-1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345128001/665/X08748_P0859_T8013-2.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345128001/665/X08748_P0859_T8013-3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345128001/665/X08748_P0859_T8013-4.jpg?compress=true&q=70"
       ],
       "id": 54
-    },
-    {
+      },
+      {
       "title": "D-VINA-C XS Women Pink Shoulder Bag",
       "catagory": "bags",
       "price": "1199.00",
@@ -1277,14 +1277,14 @@
       "color": "pink",
       "image": "https://diesel.gumlet.io/product/410345342001/665/410345342001_1_1222.webp?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410345342001/665/410345342001_1_1222.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345342001/665/410345342001_2_5400.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345342001/665/410345342001_3_1369.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345342001/665/410345342001_4_4401.webp?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410345342001/665/410345342001_1_1222.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345342001/665/410345342001_2_5400.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345342001/665/410345342001_3_1369.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345342001/665/410345342001_4_4401.webp?compress=true&q=70"
       ],
       "id": 55
-    },
-    {
+      },
+      {
       "title": "Selina Women Blue Bag",
       "catagory": "bags",
       "price": "1399.00",
@@ -1292,133 +1292,360 @@
       "color": "blue",
       "image": "https://diesel.gumlet.io/product/410315238001/665/410315238001_1.jpg?compress=true&q=70",
       "additionalImg": [
-        "https://diesel.gumlet.io/product/410315238001/665/410315238001_1.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345342001/665/410345342001_2_5400.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315238001/665/410315238001_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410315238001/665/410315238001_4.jpg?compress=true&q=70"
+      "https://diesel.gumlet.io/product/410315238001/665/410315238001_1.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410345342001/665/410345342001_2_5400.webp?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315238001/665/410315238001_3.jpg?compress=true&q=70",
+      "https://diesel.gumlet.io/product/410315238001/665/410315238001_4.jpg?compress=true&q=70"
       ],
       "id": 56
-    },
-    {
-      "title": "1994 Straight Women Blue Jeans",
-      "catagory": "jeans",
-      "price": 17999,
-      "orgprice": "19999.00",
-      "color": "blue",
-      "image": "https://diesel.gumlet.io/product/410345213007/665/410345213007_1_2719.webp?compress=true&q=70",
-      "additionalImg": [
-        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70"
-      ],
-      "id": 57
-    },
-    {
-      "title": "2023 Straight Women Blue Jeans",
-      "catagory": "jeans",
-      "price": 17999,
-      "orgprice": "19999.00",
-      "color": "pink",
-      "image": "https://diesel.gumlet.io/product/410345213007/665/410345213007_1_2719.webp?compress=true&q=70",
-      "additionalImg": [
-        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410344989005/665/410344989005_1_1636.webp?compress=true&q=70"
-      ],
-      "id": 58
-    },
-    {
-      "title": "W-NOLIA Regular Women Red Winter Jacket",
-      "catagory": "jackets",
-      "price": "23399.00",
-      "orgprice": "24399.00",
-      "color": "red",
-      "image": "https://diesel.gumlet.io/product/410345118008/665/410345118008_1_4931.webp?compress=true&q=70",
-      "additionalImg": [
-        "https://diesel.gumlet.io/product/410345118008/665/410345118008_1_4931.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345118008/665/410345118008_2_7790.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345118008/665/410345118008_4_6624.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345118008/665/410345118008_6_6681.webp?compress=true&q=70"
-      ],
-      "id": 59
-    }
+      }
   ],
-  "kidsdata": [
+  "kidsData": [
     {
+      "id": 57,
       "title": "TJANY Regular Fit Boys Red T-shirt",
-      "catagory": "t-shirts",
-      "price": "7999.00",
-      "orgprice": "8999.00",
+      "catagory": "T-shirt",
+      "price":"6999.00",
+      "orgprice": "10999.00",
       "color": "red",
       "image": "https://diesel.gumlet.io/product/410345349010/665/410345349008_1_2032.webp?compress=true&q=70",
-      "additionalImg": [
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410345349010/665/410345349008_1_2032.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410345349010/665/410345349008_1_2032.webp?compress=true&q=70",
         "https://diesel.gumlet.io/product/410345349010/665/410345349008_2_9258.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345349010/665/410345349008_3_3401.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345349010/665/410345349008_1_2032.webp?compress=true&q=70"
-      ],
-      "id": 1
+        "https://diesel.gumlet.io/product/410345349010/665/410345349008_2_9258.webp?compress=true&q=70"
+      ]
     },
     {
-      "title": "t-shirts",
-      "catagory": "t-shirts",
-      "price": "2999.00",
-      "orgprice": "3999.00",
-      "color": "red",
-      "image": "https://diesel.gumlet.io/product/410345262007/665/410345262007_1_9805.webp?compress=true&q=70",
-      "additionalImg": [
-        "https://diesel.gumlet.io/product/410345349010/665/410345349008_1_2032.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345349010/665/410345349008_2_9258.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410167560009/665/410167560009_3.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410167560009/665/410167560009_4.jpg?compress=true&q=70"
-      ],
-      "id": 2
-    }
-  ],
-  "sportsdata": [
-    {
-      "title": "t-shirts",
-      "catagory": "t-shirts",
-      "price": "2999.00",
-      "orgprice": "3999.00",
-      "color": "red",
-      "image": "https://diesel.gumlet.io/product/410345262007/665/410345262007_1_9805.webp?compress=true&q=70",
-      "additionalImg": [
-        "https://diesel.gumlet.io/product/410345349010/665/410345349008_1_2032.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410167560009/665/410167560009_2.jpg?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345058007/665/410345058007_3_9787.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410257106006/665/410257106006_1.jpg?compress=true&q=70"
-      ],
-      "id": 1
-    },
-    {
-      "title": "AMST-TRASTEER-HT01 Regular Man Re",
-      "catagory": "apparel",
-      "price": "3999.00",
+      "id": 58,
+      "title": "TDIEGOSK26 Regular Fit Boys Blue T-shirt",
+      "catagory": "T-shirt",
+      "price":"2999.00",
       "orgprice": "4999.00",
-      "color": "red",
-      "image": "https://diesel.gumlet.io/product/410345041009/665/410345041009_1_9739.webp?compress=true&q=70",
-      "additionalImg": [
-        "https://diesel.gumlet.io/product/410345041009/665/410345041009_1_9739.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345041009/665/410345041009_2_5183.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345041009/665/410345041009_3_2597.webp?compress=true&q=70",
-        "https://diesel.gumlet.io/product/410345041009/665/410345041009_4_2603.webp?compress=true&q=70"
-      ],
-      "id": 2
-    }
-  ],
-  "admin": [
-    {
-      "username": "animesh",
-      "password": "2000",
-      "id": 4
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410345354010/665/410345354008_1_8808.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410345354010/665/410345354008_1_8808.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345354010/665/410345354008_2_2358.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345354010/665/410345354008_2_2358.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345354010/665/410345354008_1_8808.webp?compress=true&q=70"
+      ]
     },
     {
-      "username": "darshan",
-      "password": "2000",
-      "id": 5
+      "id": 59,
+      "title": "Smiley Regular Fit Boy Black Sweater",
+      "catagory": "Sweaters",
+      "price":"3999.00",
+      "orgprice": "7999.00",
+      "color": "black",
+      "image": "https://diesel.gumlet.io/product/410315460005/665/410315460005_1.jpg?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410315460005/665/410315460005_2.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315460005/665/410315460005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315460005/665/410315460005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315460005/665/410315460005_2.jpg?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 60,
+      "title": "SRAGLEN OVER Regular Kid Multicolor Sweaters",
+      "catagory": "Sweaters",
+      "price":"5999.00",
+      "orgprice": "9999.00",
+      "color": "red",
+      "image": "https://diesel.gumlet.io/product/410345350005/665/410345350005_1_5872.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410345350005/665/410345350005_2_2250.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345350005/665/410345350005_1_5872.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345350005/665/410345350005_1_5872.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345350005/665/410345350005_2_2250.webp?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 61,
+      "title": "PMUST Regular Kid Blue Pants",
+      "catagory": "Pants",
+      "price":"5999.00",
+      "orgprice": "9999.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410345347010/665/410345347010_1_9051.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410345347010/665/410345347010_1_9051.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345350005/665/410345350005_1_5872.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345350005/665/410345350005_1_5872.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345347010/665/410345347010_1_9051.webp?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 62,
+      "title": "PHORY Regular Kid Yellow Pants",
+      "catagory": "Pants",
+      "price":"4799.00",
+      "orgprice": "9799.00",
+      "color": "yellow",
+      "image": "https://diesel.gumlet.io/product/410315459015/665/410315459015_1_3618.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410315459015/665/410315459015_1_3618.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315459015/665/410315459015_1_3618.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315459015/665/410315459015_2_7270.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315459015/665/410315459015_2_7270.webp?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 63,
+      "title": "PMORY Regular Fit Boy Black Pants",
+      "catagory": "Pants",
+      "price":"4999.00",
+      "orgprice": "8999.00",
+      "color": "black",
+      "image": "https://diesel.gumlet.io/product/410291394010/665/410291394010_1.jpg?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410291394010/665/410291394010_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410291394010/665/410291394010_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410291394010/665/410291394010_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410291394010/665/410291394010_1.jpg?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Sgirkhoodzip Regular Fit Unisex Red Sweaters",
+      "catagory": "Sweaters",
+      "price":"3999.00",
+      "orgprice": "10999.00",
+      "color": "red",
+      "image": "https://diesel.gumlet.io/product/410315469015/665/410315469015_1.jpg?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410315469015/665/410315469015_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315469015/665/410315469015_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315469015/665/410315469015_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315469015/665/410315469015_1.jpg?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 65,
+      "title": "JDOLMIR21-SL Regular Fit Boys Blue Jacket",
+      "catagory": "Jacket",
+      "price":"12999.00",
+      "orgprice": "18999.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410345346015/665/410345346015_1_4228.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410345346015/665/410345346015_1_4228.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345346015/665/410345346015_1_4228.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345346015/665/410345346015_1_4228.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345346015/665/410345346015_1_4228.webp?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 66,
+      "title": "1979 SLEENKER-J Skinny Kid Black Jeans",
+      "catagory": "Jeans",
+      "price":"15999.00",
+      "orgprice": "19999.00",
+      "color": "black",
+      "image": "https://diesel.gumlet.io/product/410345358005/665/410345358005_1_3427.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410345358005/665/410345358005_1_3427.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345358005/665/410345358005_1_3427.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345358005/665/410345358005_1_3427.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345358005/665/410345358005_1_3427.webp?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 67,
+      "title": "1979 SLEENKER-J Skinny Fit Boys Blue Jeans",
+      "catagory": "Jeans",
+      "price":"6999.00",
+      "orgprice": "13999.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410345352005/665/410345352003_1_4605.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410345352005/665/410345352003_1_4605.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345352005/665/410345352003_1_4605.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345352005/665/410345352003_1_4605.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345352005/665/410345352003_1_4605.webp?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Sdell Regular Fit Men Blue Sweater",
+      "catagory": "Sweaters",
+      "price":"6999.00",
+      "orgprice": "13999.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410315479002/665/410315479005_1.jpg?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410315479002/665/410315479005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315479002/665/410315479005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315479002/665/410315479005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315479002/665/410315479005_1.jpg?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 69,
+      "title": "TDIEGOSB10 Regular Fit Boys White T-shirt",
+      "catagory": "T-shirt",
+      "price":"11999.00",
+      "orgprice": "15999.00",
+      "color": "white",
+      "image": "https://diesel.gumlet.io/product/410345356010/665/410345356008_1_1257.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410315479002/665/410315479005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315479002/665/410315479005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315479002/665/410315479005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315479002/665/410315479005_1.jpg?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 70,
+      "title": "TDIEGOSK26 Regular Fit Boys Red T-shirt",
+      "catagory": "T-shirt",
+      "price":"14999.00",
+      "orgprice": "18999.00",
+      "color": "red",
+      "image": "https://diesel.gumlet.io/product/410345354005/665/410345354003_1_2642.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410345354005/665/410345354003_1_2642.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345354005/665/410345354003_1_2642.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345354005/665/410345354003_1_2642.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345354005/665/410345354003_1_2642.webp?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 71,
+      "title": "KNITRO Regular Fit Boy Black Knitwear",
+      "catagory": "Sweaters",
+      "price":"11999.00",
+      "orgprice": "13999.00",
+      "color": "black",
+      "image": "https://diesel.gumlet.io/product/410291412003/665/410291412005_1.jpg?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410291412003/665/410291412005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410291412003/665/410291412005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410291412003/665/410291412005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410291412003/665/410291412005_1.jpg?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 72,
+      "title": "PTARYLOGO Regular Fit Boy Green Pants",
+      "catagory": "Pants",
+      "price":"4999.00",
+      "orgprice": "8999.00",
+      "color": "green",
+      "image": "https://diesel.gumlet.io/product/410271525008/665/410271525010_1.jpg?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410271525008/665/410271525010_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410271525008/665/410271525010_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410271525008/665/410271525010_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410271525008/665/410271525010_1.jpg?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 73,
+      "title": "SKI Regular Fit Boy Black Sweaters",
+      "catagory": "Sweaters",
+      "price":"7999.00",
+      "orgprice": "12999.00",
+      "color": "black",
+      "image": "https://diesel.gumlet.io/product/410291385003/665/410291385005_1.jpg?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410291385003/665/410291385005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410291385003/665/410291385005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410291385003/665/410291385005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410291385003/665/410291385005_1.jpg?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Pcrown Regular Fit Unisex Red Shorts",
+      "catagory": "Pants",
+      "price":"7999.00",
+      "orgprice": "16999.00",
+      "color": "red",
+      "image": "https://diesel.gumlet.io/product/410315458015/665/410315458015_1.jpg?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410315458015/665/410315458015_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315458015/665/410315458015_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315458015/665/410315458015_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315458015/665/410315458015_1.jpg?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Pcrown Regular Fit Unisex blue pants",
+      "catagory": "Pants",
+      "price":"6599.00",
+      "orgprice": "8999.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410315457004/665/410315457005_1.jpg?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410315457004/665/410315457005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315457004/665/410315457005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315457004/665/410315457005_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315457004/665/410315457005_1.jpg?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 76,
+      "title": "TJUSTB84 OVER Regular Fit Boys blue T-shirt",
+      "catagory": "T-shirt",
+      "price":"4599.00",
+      "orgprice": "7499.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410345348010/665/410345348008_1_2607.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410345348010/665/410345348008_1_2607.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345348010/665/410345348008_1_2607.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345348010/665/410345348008_1_2607.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345348010/665/410345348008_1_2607.webp?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 77,
+      "title": "JDWAIN Regular Fit Boy Green Sweaters",
+      "catagory": "Sweaters",
+      "price":"8599.00",
+      "orgprice": "14499.00",
+      "color": "green",
+      "image": "https://diesel.gumlet.io/product/410291410007/665/410291410010_1.jpg?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410291410007/665/410291410010_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410291410007/665/410291410010_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410291410007/665/410291410010_1.jpg?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410291410007/665/410291410010_1.jpg?compress=true&q=70"
+      ]
+    },
+      {
+      "id": 78,
+      "title": "JDOLMIR21 Regular Fit Boys Green Jacket",
+      "catagory": "Sweaters",
+      "price":"7499.00",
+      "orgprice": "11799.00",
+      "color": "green",
+      "image": "https://diesel.gumlet.io/product/410345345010/665/410345345008_1_2083.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410345345010/665/410345345008_1_2083.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345345010/665/410345345008_1_2083.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345345010/665/410345345008_1_2083.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410345345010/665/410345345008_1_2083.webp?compress=true&q=70"
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Sleenker Skinny Fit Boy Blue JoggJeans®",
+      "catagory": "Jeans",
+      "price":"5498.00",
+      "orgprice": "7699.00",
+      "color": "blue",
+      "image": "https://diesel.gumlet.io/product/410315471005/665/410315471004_1_2296.webp?compress=true&q=70",
+      "additionalImg":[
+        "https://diesel.gumlet.io/product/410315471005/665/410315471004_1_2296.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315471005/665/410315471004_1_2296.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315471005/665/410315471004_1_2296.webp?compress=true&q=70",
+        "https://diesel.gumlet.io/product/410315471005/665/410315471004_1_2296.webp?compress=true&q=70"
+      ]
     }
+    
   ]
 }
