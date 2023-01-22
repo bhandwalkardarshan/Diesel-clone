@@ -9,7 +9,7 @@
     <style>
         body{
             text-align: center;
-            color: rgb(253, 1, 1);
+            color: rgb(180, 1, 64);
         }
         body>div{
             display: grid;
@@ -31,10 +31,76 @@
         button{
             margin-bottom: 10px;
         }
+        #nav{
+            display: flex;
+            justify-content: space-between;
+            padding: 30px;
+            /* opacity: 1; */
+        }
+        #sorting{
+            width: 200px;
+            height: 40px;
+            color: black;
+            background-color: rgb(180, 1, 64);
+            padding: 10px;
+            border-radius: 5px;
+
+        }
+        #logo{
+            width: 200px;
+        }
+  
+        #search{
+            width: 350px;
+            padding: 8px;
+            height: 20px;
+            margin-top: 5px;
+            border-radius: 8px;
+        }
+        @media all and (min-width:0px) and (max-width:400px) {
+            #nav{
+            display: flex;
+            flex-direction: column;
+            
+            /* justify-content: space-between; */
+            }
+
+            body>div{
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+            gap: 15px;
+            }
+            body{
+                margin: auto;
+            }
+
+
+        }
+
+        @media all and (min-width:401px) and (max-width:800px) {
+            body>div{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            gap: 15px;
+            }
+            body{
+                margin: auto;
+            }
+
+        }
     </style>
 </head>
 
 <body>
+    <div id="nav">
+        <img id="logo" src="images/logo3.png" alt="logo">
+        <input oninput="search()" id="search" type="text" placeholder="enter your keyword here to search">
+        <select name="sort" id="sorting">
+            <option value="">Select to sort by price</option>
+            <option value="LTH">low to high</option>
+            <option value="HTL">high to low</option>
+        </select>
+    </div>
 
     <h1>Diesel Sports Wear</h1>
     <h2>Choose from a wide range of sports collection</h2>

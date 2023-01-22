@@ -67,7 +67,7 @@ let sportsItems=[
 
     },
         {
-        image:"https://cdn.shopify.com/s/files/1/0261/7393/1605/products/IMG_0518-2_460x.jpg?v=1669102398",
+        image:"https://cdn.shopify.com/s/files/1/0272/5065/5367/products/code-cotton-rich-oxford-blue-mens-track-pant-lookshot1.jpg?v=1667207068",
         title:"Men's Athletic Jersey Quick Dry T-Shirt Navy"  ,
         price: 500,
         description:"Fast Dry Micro Fiber Fabric Sporty Raglan Sleeve with Mesh Side Panel Constructed with Reinforcement Stitch for Extended Durability",
@@ -274,34 +274,91 @@ let sportsItems=[
 
     }
 ]    
-console.log(sportsItems)
+// console.log(sportsItems)
 
 let container=document.querySelector("#container")
 // container.textContent="hello"
+display(sportsItems)
+function display(sportsItems){
+    container.textContent=null;
+    sportsItems.forEach(el => {
+        let div=document.createElement("div")
+    
+        let image=document.createElement("img")
+        image.setAttribute("src",el.image);
+        let title=document.createElement("h2");
+        title.textContent=el.title;
+        let price=document.createElement("h5");
+        price.textContent="Original price   Rs-"+el.price+"  ❌" ;
+        let discountedPrice=document.createElement("h4")
+        discountedPrice.textContent="Discounted price   Rs-"+el.discountedPrice;
+        let color=document.createElement("h4");
+        color.textContent=el.color;
+        let description=document.createElement("p");
+        description.textContent=el.description.substring(0,50);
+        let cartBtn=document.createElement("button");
+        cartBtn.textContent="Add To Cart";
+        cartBtn.addEventListener("click",function(){
+
+
+        })
+    
+    
+    
+        div.append(image,title,price,discountedPrice,color,description,cartBtn);
+        container.append(div)
+    });
+}
 
 
 
-sportsItems.forEach(el => {
-    let div=document.createElement("div")
+let sortOpt=document.querySelector("#sorting")
+sortOpt.addEventListener("change",function(){
+    // console.log("changed")
+if(sortOpt.value==="LTH"){
+    sportsItems.sort((a,b)=>{ return a.price-b.price})
+    display(sportsItems)
+    // console.log(sportsItems)
+}
+if(sortOpt.value==="HTL"){
+    sportsItems.sort((a,b)=>{ return b.price-a.price})
+    display(sportsItems)
+    // console.log(sportsItems)
+}
 
-    let image=document.createElement("img")
-    image.setAttribute("src",el.image);
-    let title=document.createElement("h2");
-    title.textContent=el.title;
-    let price=document.createElement("h5");
-    price.textContent="Original price   Rs-"+el.price+"❌" ;
-    let discountedPrice=document.createElement("h4")
-    discountedPrice.textContent="Discounted price   Rs-"+el.discountedPrice;
-    let color=document.createElement("h4");
-    color.textContent=el.color;
-    let description=document.createElement("p");
-    description.textContent=el.description.substring(0,50);
-    let cartBtn=document.createElement("button");
-    cartBtn.textContent="Add To Cart"
+})
+
+let searchInput=document.querySelector("input");
+
+// searchInput.addEventListener("input",function(){
+//     console.log("entered")
+// let filtered=sportsItems.filter((el)=>{
+//     return el.title.toLowerCase().includes(searchValue.toLowerCase())
+// })
+// console.log(filtered)
+// display(filtered)
+
+// })
 
 
+// This function serves as search functionality for searching the products as per the title.
 
-    div.append(image,title,price,discountedPrice,color,description,cartBtn);
-    container.append(div)
-});
+function search(){
+    let searchValue=searchInput.value;
+    // console.log(searchValue)
+    let filtered=sportsItems.filter((el)=>{
+        return el.title.toLowerCase().includes(searchValue.toLowerCase())
+    })
+    // console.log(filtered)
+    display(filtered)
 
+}
+
+
+// Here add the address of home page for returning to the landing page when clicking on the logo.
+
+
+let homeBtn=document.querySelector("#logo");
+homeBtn.addEventListener("click",function(){
+    window.location.href=""
+})
