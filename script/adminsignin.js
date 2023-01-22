@@ -10,7 +10,7 @@ adminsubmit.addEventListener("click", (e) => {
   };
   foradminuser(obj);
 });
-
+let c=0;
 async function foradminuser(obj) {
   console.log("in");
   let res = await fetch("http://localhost:3000/admin");
@@ -19,18 +19,21 @@ async function foradminuser(obj) {
     if (
       adminuser.username == obj.username &&
       adminuser.password == obj.password
-    ) 
-    {
+    ) {
       localStorage.setItem(
         "activeadminuser",
         JSON.stringify(adminuser.username)
       );
+      c=1;
       window.location.href = "../html/adminhome.html";
       break;
     }
-    else{
+   
+  }
+  if(c==0){
+    
       alert("Wrong credentials!")
-    }
+    
   }
 }
 
