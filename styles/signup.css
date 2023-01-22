@@ -73,3 +73,91 @@ form>p{
     font-size: 10px;
     /* border: 1px solid red; */
 }
+
+
+
+
+
+
+
+/* //pop up css */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.popup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(8, 243, 8);
+    border-radius: 8px;
+    position: absolute;
+    top: 0;
+    left: 41%;
+    transform: translate(-20%, -40%) scale(0.1);
+    text-align: center;
+    padding: 10px 20px 15px 20px;
+    color: rgb(16, 15, 15);
+    visibility: hidden;
+    transition: transform 0.2s, top 0.10s;
+}
+
+.open-Popup {
+    visibility: visible;
+    top: 3%;
+    transform: translate(5%) scale(1);
+    display: flex;
+    justify-content: center;
+    background: rgb(8, 243, 8);
+    align-items: center;
+    text-align: center;
+}
+
+#popup h5,
+p {
+    color:#fff;
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* // popup 1 */
+.popup1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(252, 76, 6);
+    border-radius: 8px;
+    position: absolute;
+    top: 0;
+    left: 41%;
+    transform: translate(-20%, -40%) scale(0.1);
+    text-align: center;
+    padding: 10px 20px 15px 20px;
+    color: rgb(16, 15, 15);
+    visibility: hidden;
+    transition: transform 0.2s, top 0.10s;
+}
+
+.open-Popup1 {
+    visibility: visible;
+    top: 3%;
+    transform: translate(5%) scale(1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#popup1 h5,
+p {
+    color:#fff;
+}
+

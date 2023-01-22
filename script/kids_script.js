@@ -32,10 +32,12 @@ function check(data) {
 
         let image = document.createElement("img")
         image.src = element.image
-        image.style.boxShadow ="rgba(0, 0, 0, 0.4) 0px 30px 90px"
+        image.style.boxShadow ="rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px"
         image.style.borderRadius = "18px"
         image.style.marginBottom = "15px"
         image.style.mixBlendMode = "multiply"
+        image.style.width="100%";
+        image.style.cursor="pointer"
     
 
     
@@ -47,20 +49,24 @@ function check(data) {
         title.style.fontSize="20px"
         title.style.marginBottom = "5px"
         title.style.marginTop = "0px"
+        title.style.cursor="default"
        
         let price = document.createElement("span")
         price.style.fontWeight = "800"
         price.innerText = `₹${element.price}`
         price.style.marginBottom="0px"
         price.style.fontSize="20px"
+        price.style.cursor="default"
         let discount = document.createElement("span")
         discount.style.marginRight = "22px"
         discount.style.paddingLeft="5px"
         discount.style.opacity="0.6"
         discount.style.fontWeight="600"
+        discount.style.cursor="default"
         let color = document.createElement("span")
         color.innerText = element.color.toUpperCase()
         color.style.fontWeight = "600"
+        color.style.cursor="default"
         
 
 
@@ -71,6 +77,7 @@ function check(data) {
             image1.style.width = "80px"
             image1.style.height = "20px";
             image1.style.marginBottom = "25px"
+            image1.style.cursor="default"
             discount.innerText = "Flat(30% off)"
 
 
@@ -84,6 +91,7 @@ function check(data) {
             image2.style.width = "80px"
             image2.style.height = "20px"
             image2.style.marginBottom = "25px"
+            image2.style.cursor="default"
             discount.innerText = "Flat(25% off)"
             div1.append(image, price, discount, color, title, image2)
             // div1.style.border = "2px solid black"

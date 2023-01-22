@@ -1,23 +1,5 @@
-//for logout user------------>
 let activeloginuser = JSON.parse(localStorage.getItem("activeLoginUser"));
-let logout=document.getElementById("logout");
-logout.addEventListener("click",()=>{
- 
-    localStorage.removeItem("activeLoginUser");
-   
-    
-     
-   
-    alert(`${activeloginuser.username} logout successfull`)
-    window.location.reload();
-    window.location.href = "../html/index.html";
-})
-//end for logout user------------>
-
-
-// let activeloginuser = JSON.parse(localStorage.getItem("activeLoginUser"));
 let cartproduct = JSON.parse(localStorage.getItem("cart")) || [];
-
 
 
 //for cart count show
