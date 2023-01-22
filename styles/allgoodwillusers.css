@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+  }
+ 
+  .title{
+    text-align: center;
+    font-size: 25px;
+   /* color: white; */
+   padding: 5px 0;
+    /* background-color: blue; */
+    width: 90%;
+    margin: auto;
+    margin-top: 25px;
+  }
+
+  .container>form>input{
+    display: block;
+  }
+  .container{
+    width: 50%;
+    margin: auto;
+    /* border: 1px solid red; */
+  }
+  .container>form{
+    /* border: 2px solid ; */
+    width: 40%;
+    margin: auto;
+   
+  }
+  
+  #table-container{
+    margin-top: 25px;
+  }
+  
+  
+  
+
+table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;
+  }
+
+ table{
+  margin: auto;
+  width: 90%;
+  font-family: 'Roboto', sans-serif;
+ }
+ tr{
+  height: 20px;
+ }
+
+  td{
+    padding: 3px;
+    text-align: center;
+  }
+ tr:nth-child(even){
+  background-color: thistle;
+}
+
+ tr:hover {background-color: #ddd;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #039BE5;
+  color: white;
+}
+  #deleteuser{
+    cursor: pointer;
+    /* background-color: red;
+    color: white; */
+  }
+  #heading{
+    text-align: center;
+  }
+ 

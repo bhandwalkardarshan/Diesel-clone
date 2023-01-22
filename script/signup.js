@@ -18,23 +18,16 @@ signup.addEventListener("submit", (e) => {
     signup.usermobilenumber.value == "" ||
     signup.userpassword.value == ""
   ) {
-
-    // alert("Somthing wrong!");
-    openPopup1()
-  } else {
-
     alert("Somthing wrong!");
-  } 
-  else {
-    if(signup.usermobilenumber.value.length < 10){
+  } else {
+    if (signup.usermobilenumber.value.length < 10) {
       alert("please enter 10 digit mobile number");
       return;
     }
-    if(signup.userpassword.value.length<6){
+    if (signup.userpassword.value.length < 6) {
       alert("please enter atleast 6 character");
       return;
     }
-
 
     for (let phonenumber of signUpUser) {
       if (signup.usermobilenumber.value == phonenumber.usermobilenumber) {
@@ -52,53 +45,10 @@ signup.addEventListener("submit", (e) => {
 
 //new user data store (signup) function
 function stroeDataofsignupUser(obj) {
-
   signUpUser.push(obj);
   localStorage.setItem("signupuser", JSON.stringify(signUpUser));
   localStorage.setItem("activeLoginUser", JSON.stringify(obj));
 
-
-  // alert("Congratulation! you are welcome");
-         openPopup()
-  // window.location.href = "../html/signin.html";
-}
-
-//CODE FOR IF SIGNUP IS SUCCESSFULL
-let popup=document.getElementById("popup")
-
-function openPopup() {
-  // let popup = document.getElementsByClassName("popup")
-  popup.classList.add("open-Popup")
-  setTimeout(() => {
-      closePopup()
-  }, 2000)
-
-}
-
-function closePopup() {
-  popup.classList.remove("open-Popup")
-  window.location.href = "../html/signin.html";
-}
-
-
-//CODE IF SIGN up is unsuccersfull
-
-let popup1=document.getElementById("popup1")
-
-function openPopup1() {
-  popup1.classList.add("open-Popup1")
-  setTimeout(() => {
-      closePopup1()
-  }, 2000)
-
-}
-
-function closePopup1() {
-  popup1.classList.remove("open-Popup1")
-  window.location.href = "../html/signin.html";
-}
-
   alert("Congratulation! you are welcome");
   window.location.href = "../html/index.html";
 }
-

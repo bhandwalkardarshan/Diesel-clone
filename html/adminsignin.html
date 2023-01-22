@@ -11,18 +11,25 @@
     <img src="../images/logo3.png" alt="Goodwill logo" />
     <div id="signin-form">
       <h3>Sign in</h3>
-      <form id="signin">
-        <input type="number" placeholder="Mobile number" class="input" id="usermobilenumber"/>
-        <input type="password" placeholder="Enter password" class="input" id="userpassword" />
+      <form id="adminsignin">
+        <input
+          type="text"
+          placeholder="adminusername"
+          class="input"
+          id="adminusername"
+        />
+        <input
+          type="password"
+          placeholder="adminuserpassword"
+          class="input"
+          id="adminuserpassword"
+        />
         <p>&#9888; Password must be at least 6 characters</p>
         <input type="checkbox" name="" id="" />
         <label for="showpassword">Show Password</label>
-        <input type="submit" value="Signin" class="input" id="register" />
+        <input type="submit" value="Submit" class="input" id="adminsubmit" />
       </form>
-      <p>
-        Create new Goodwill account? <a href="../html/signup.html">Sign up</a>
-      </p>
     </div>
   </body>
-  <script src="../script/signin.js"></script>
+  <script src="../script/adminsignin.js"></script>
 </html>
