@@ -30,6 +30,7 @@ forNewSignup.addEventListener("click",()=>{
 
 
 //for cart count show
+if(activeloginuser!=null){
 let cartcount=document.getElementById("cart-count");
 let count=0;
 cartproduct.forEach(element => {
@@ -37,6 +38,7 @@ cartproduct.forEach(element => {
     cartcount.innerText=++count;
   }
 });
+}
 //<--------------->
 
 
