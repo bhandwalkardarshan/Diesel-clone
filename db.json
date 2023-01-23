@@ -1647,5 +1647,19 @@
       ]
     }
     
+  ],
+  "admin": [
+    {
+      "username": "animesh",
+      "password": "2000",
+      "id": 4
+    },
+    {
+      "username": "darshan",
+      "password": "2000",
+      "id": 5
+    }
   ]
+
+
 }
